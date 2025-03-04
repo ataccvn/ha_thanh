@@ -98,7 +98,7 @@ TQ lj phí theo nghț dțnh 67
 Ty lj phí toi thieu
 cúa MIC
 
-THVC  GDKD
+Thiệt hại vật chất  Gián đoạn kinh doanh
 
 0.045%  0.045%
 0.045%  0.045%
@@ -340,7 +340,7 @@ Tÿ le phí theo nghț dțnh 67
 Tÿ lj phí toi thieu
 cúa MIC
 
- THVC   GDKD
+ Thiệt hại vật chất   Gián đoạn kinh doanh
 0.045%  0.045%
 0.038%  0.038%
 0.075%  0.075%
@@ -703,7 +703,7 @@ Tÿ Ij phí theo nghj d|nh 67
 Tÿ lj phí toi thieu
 cún MIC
 
-THVC  GDKD
+Thiệt hại vật chất  Gián đoạn kinh doanh
 0.150%  0.150%
 0.120%  0.120%
 0.045%  0.045%
@@ -908,7 +908,7 @@ phí theo ngh| dțn h 67
 Ty Ij phí toi thieu
 cùa MIC
 
-THVC  G DKD
+Thiệt hại vật chất  G DKD
 0.1 l 3%  0.113%
 0.150%  0.150%
 
@@ -1274,7 +1274,7 @@ Tÿ 1j phí theo nghj dțnh 67
 Ty lę phí toi thieu
 c6a MIC
 
-THVC  GDKD
+Thiệt hại vật chất  Gián đoạn kinh doanh
 
 0 200%  0 200%
 0 300%  0 300%
@@ -1466,7 +1466,7 @@ Ty lj phí theo nghi djnh 67
 Ty Iç phí toi thieu
 cúa MIC
 
-THVC  GDKD
+Thiệt hại vật chất  Gián đoạn kinh doanh
 0.500%  0.500%
 0.250%  0.250%
 0.350%  0.350%
