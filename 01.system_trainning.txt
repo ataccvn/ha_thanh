@@ -1,2028 +1,430 @@
-Bạn là Phát ngôn viên, trợ lý AI của MIC Hà Thành, nhiệm vụ của bạn là hỗ trợ nhân viên tư vấnsản phẩm cũng như quy trình khai thác. Bạn hãy cung cấp thông tin chi tiết và dễ hiểu về Hướng dẫn khai thác các sản phẩm bảo hiểm để nhân viên tư vấn các quyền lợi bảo hiểm tương ứng với từng sản phẩm Hướng dẫn định hướng các sản phẩm phù hợp, bao gồm các quy định liên quan đến chi trả bồi thường, trả tiền bảo hiểm như Bảo lãnh viện phí hoặc Bồi thường trực tiếp. Bạn cần giúp họ hiểu rõ phạm vi bảo hiểm; Các loại quyền lợi nào được trả tiền bảo hiểm; Các bệnh nào không được trả tiền bảo hiểm, và Các quy trình cần thiết để xử lý hồ sơ yêu cầu trả tiền bảo hiểm. Hãy đảm bảo rằng thông tin bạn cung cấp là chính xác, dễ tiếp cận và có thể giúp Bồi thường viên ra quyết định nhanh chóng để phục vụ khách hàng một cách hiệu quả nhất. Đừng ngần ngại giải thích các khái niệm phức tạp một cách đơn giản và rõ ràng, đồng thời cung cấp thông tin cụ thể để minh họa cho các trường hợp khác nhau.
+Bạn là Phát ngôn viên, trợ lý AI của MIC Hà Thành, nhiệm vụ của bạn là hỗ trợ nhân viên tư vấnsản phẩm cũng như quy trình khai thác. Bạn hãy cung cấp thông tin chi tiết và dễ hiểu về Hướng dẫn khai thác các sản phẩm bảo hiểm để nhân viên tư vấn các quyền lợi bảo hiểm tương ứng với từng sản phẩm Hướng dẫn định hướng các sản phẩm phù hợp, bao gồm các quy định liên quan đến chi trả bồi thường, trả tiền bảo hiểm như Bảo lãnh viện phí hoặc Bồi thường trực tiếp. Bạn cần giúp họ hiểu rõ phạm vi bảo hiểm; Các loại quyền lợi nào được trả tiền bảo hiểm; Các bệnh nào không được trả tiền bảo hiểm, và Các quy trình cần thiết để xử lý hồ sơ yêu cầu trả tiền bảo hiểm. Hãy đảm bảo rằng thông tin bạn cung cấp là chính xác, dễ tiếp cận và có thể giúp Bồi thường viên ra quyết định nhanh chóng để phục vụ khách hàng một cách hiệu quả nhất. Đừng ngần ngại giải thích các khái niệm phức tạp một cách đơn giản và rõ ràng, đồng thời cung cấp ví dụ cụ thể để minh họa cho các trường hợp khác nhau.
 
-Bi~u phi tBi thi~u nghi~p V\I Bao hi~m May moe thi~t b] chu thAu nam 2025
+Biêu phí toi thiêu nghiep vç Bào hiêm Máy móc thiet bi chù thau năm 2025
 
-1. f)6i tUQ'I1g
-ap dung: dan Bao hiem May moe thiet bi chu thau (CPM)
-2. Ty l~ phi ap dung eho 01 nam chua VAT
-3.TYl~ phi ngan han
-Phi eho thai gian ngan han = Ty I~ phi 01 nam=Thoi han bao hiem (ngay)/365 ngay
-4. Dich vu co tai bao hiem tarn thai 1)' l~ phi se thea phi chap thuan cua nha tai bao hiem.
+1.	Doi tupng áp dung: don Bao hiem Máy móc thiet bi chù thau (CPM)
+2.	Tÿ le phí áp dung cho 01 näm chua VAT
+3.	Tÿ le phí ngan hąn
+Phí cho thòi gian ngan hąn = Tÿ le phí 01 năm*Thõi hąn bão hiem (ngày)/365 ngày
+4.	Dich vu có tái bão hiêm tąm thõi tÿ le phí së theo phí chap thuan cùa nhà tái bão hiem.
 
-"
 
-TT
 
-Ma dBi tU'Qng
 
-A
-I
 
-CPMOI
-CPM01.1
-CPM01.1.1
-CPM01.l.2
-CPM01.1.3
-CPM01.l.4
-CPMOl.1.5
-CPMOl.l.6
-CPMOl.l.7
-CPMOl.l.8
-CPMOl.l.9
-CPMOl.1.11
-CPMOl.l.12
-CPM01.2
-CPM02
 
-1
-2
-3
-i,iA
 
-5
-.. ,6
-.- ... 7
-8
-9
-10
-11
-II
-B
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Bieu phí toi thieu nghiep vç Bào hiem Tài săn năm 2025
+
+1.	Doi tirong áp dung: Toàn bo den bào hiem tài săn gom cháy nô băt bupc, hòa hoąn và các rùi ro däc biet, m9i rüi ro tài sàn
+2.	Tÿ le phí áp dóng cho 01 năm chaa VAT
+3.	Tÿ le phí ngan hąn
+Phi cho thói gian ngan hąn = Tÿ le phí 01 näm*Tlaõi hąn băo hiem (ngày)/365 ngày
+,4..Dich vu có tái bào hiêm tąm thõi tÿ le phí së tlaeo phí chap thuan cùa nhà tái băo hiem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:
+
+is B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+T@p
 ,
-i;._.
-I
+’.o i
+!Äh
 
-,
+ 
 
-Ten may moe /th~t bi
-May moe va thiet bi rieng le
-May moe xay dung
-C~ndu
-Thi~t bi di doi d~t
-May dam
-Mayxayd\IDgduangb9,duangray
-May dong coo/may khoan
-Giao thong v~n tai
-May dao ham
-May xay dung e~u
-May moe heat d9n_gtren sa Ian! thuyen
-Thi~t bi nang rna rong sa Ian
-Thi~t bi nang tren bo
-Thi~t bi xay dung (la b9 phan cua may moe xay d\IDg)
-Nhm;mg thea h~ th6n_gmay moe d6ng b9
 
-TLP tBi
-thi~u
+STT	
+Mä ngàn h
+nghe	
 
-0.30%
-0.40%
-0.20%
-0.23%
-0.23%
-0.29%
-0.90%
-0.25%
-0.90%
-0.78%
-0.30%
-0.30%
-0.20%
+Ngành nghe	
+Tÿ Ij phí theo nghj d|nh 67	
+Tÿ lj phí toi thieu
+cún MIC
+				THVC	GDKD
+73	FIRE02.37	Sàn xuât vat lieu xây dçmg (không phài các nguyên lieu nhçra, xop,
+giây, go)	
+0.200%	
+0.150%	0.150%
+74	FlRE02.38	Trung tâm nuôi thùy sàn			0.160%	0.120%	0.120%
+75	FIRE02.39	Trirõng dua, sân vân dpng	0.060%	0.045%	0.045%
+76	FIRE02.40	Xuòng mach nha	0.150%	0.113%	0.113%
+77	FIRE02.41	Nhà máy thuy dijn	0.120%	0.090%	0.090%
+’/8	FlRE02.45	Cùa hàng bách hóa	0.080%	0.060%	0.060%
+79	FlRE02.46	Sàn xuat cáp quang, cáp dong	0.150%	0.113%	0.113%
+80	FIRE02.47	Nhà máy sán xuat kính tarn	0.150%	0.113%	0.113%
+81	FIRE02.48	Trung tâm chì huy, dieu dô, dieu hành, dieu khien	0.080%	0.060%	0.060%
+CAT 3					
+82	FIRE03.I	Bãi do xe	0.100%	0.075%	0.075%
+83	FIRE03.4	Căn hô trung, cao cap  có hoat dông kinh doanh bán lé)	0.050%	0.038%	0.038%
+84	FIRE03.5	Càng biên, càng sông	0.100%	0.075%	0.075%
+85	FIRE03.6	Câutàu/Bãi do tàu	0.100%	0.075%	0.075%
+86	FIRE03.7	Che bien (sòi, dá däm, than xi tron nhçra) vói asphant hoiac bitumen	
+0.150%	
+0.113%	0.113%
+87	FlRE03.8	Cø sò sàn xuât áo di mira, nhua tâm, khăn trái bàn	0.200%	0.150%	0.150%
+88	FIRE03.9	Cø sò sán xuât nút chai	0.200%	0.150%	0.150%
+89	FlRE03.10	Cø sò vë tranh, phòng tranh, làm pano quáng cáo	0.200%	0.150%	0.150%
+90	FIRE03.I 1	Garamźy bay	0.200%	0.150%	0.150%
+_ 91	FIRE03.I 2	Khách sąn, Resort và nhà khách (Ven biên tiï Thanh Hóa den Quy
+Nhon cách bõ bien tính tiï mép nuóc hon 1 km)	
+0.100%	
+0.075%	0.075%
+92	FIRE03.I 2	Khách sąn, Resort và nhà khách (Ven biên tïï Thanh Hóa den Quy
+Nhon cách bò bien tính ter mép nuóc hon 1 km)	
+0.100%	
+0.075%	0.075%
+93	FIRE03.13	Kho chùa xe (ô tô, mô tô) có mái che/không có mái Che kh n	ó d Gh
+vu bào trì và sù'a chiia	'	''	
+0.120%	
+0.050%	0.090%
+94	FIRE03.14	Kho gacla, dô gòm sù	0.100%	0.075%	0.075%
+95	FIRE03.15	Kho kim loai, phu tùng cø khí	0.100%	0.075%	0.075%
+96	FIRE03.16	Kho vât liêu xây dtmg (không có gô, giây, xôp, chât lóng dê cháy)	0.200%	0.150%	0.150%
+97	FIRE03.17	Lò dúc	0.150%	0.113%	0.113%
+98	FIRE03.18	Luyên quăng (trir quăng săt)	0.200%	0.150%	0.150%
+99	FIRE03.19	Nhà máy /co só giet mô sùc vât	0.150%	0.113%	0.113%
+l"00	FlRE03.20	Nhà máy chê bien sàn xuat cafe, hat dieu	0.150%	0.113%	0.113%
+101	FlRE03.21	Nhà máy dánh bóng gao	0.150%	0.113%	0.113%
+102	FIRE03.22	Nhà máy dóng tàu và sùa chíia tàu	0.200%	0.150%	0.150%
 
-Bi~u phi tBi thi~u nghiep vu Bao hi~m Tili san nam 2025
-1. D6i tuong ap dung: Toan bQ dan bao hiem tai san g6m chay n5 b~t buoc, hoa hoan va cac rui TO d(lc biet, moi rui TO tai
-san
-2. Ty I~ phi ap dung cho 0 I nam chua VAT
-3. Ty I~ phi ng~ han
-Phf~ho thai gian ngan han = Ty I~ phi 01 nam=Thci han bao hiem (ngay)/365 ngay
-(4))jc)1 vu co tai bao hiern tarn thai ty I~ phi se thea phi chap thuan cua nha tai bao hiern
+103	
+FIRE03.23	Nhà máy hóa chât vô cø và hùu cø chê biên nguyên lieu và bán tliành
+pham sán pham nhir phân bón dąng hąt, viên nhò, bjt hoiac axít, muoi, dung môipcao su tong h9p	
+0.200%	
+0.150%	
+0.150%.
+104	FlRE03.24	Nhà máy làm phân trjn	0.200%	0.150%	0.150%
+105	FlRE03.25	Nhà máy loc dâu hoat dông trên 15 năm	0.350%	0.263%	0.263%
+106	FIRE03.26	Nhà máy luu hoá cao su	0.200%	0.150%	0.150%
+107	FlRE03.27	Nhà máy luyên than côc	0.200%	0.150%	0.150%
+108	FlRE03.28	Nhà máy phong diên (diên gió) trên dât liên	0.120%	0.090%	0.090%
+109	FIRE03.29	Nhà máy sàn xuât các sán phâm tit cao su	0.200%	0.150%	0.150%
+110	FIRE03.30	Nhà máy sàn xuât chât déo, cao su dăc	0.200%	0.150%	0.150%
+llJ	FIRE03.31	Nhà máy sàn xuat da thuôc	0.200%	0.150%	0.150%
+112	FIRE03.32	Nhà máy sàn xuat lông vü, thú nhôi bông, dêm	0.200%	0.150%	0.150%
+113	FlRE03.33	Nhà máy sàn xuât mì än liên, cháo än liên	0.150%	0.113%	0.113%
+114	IIRE03.34	Nhà máy sàn xuat ntróc măm, dâm	0.150%	0.113%	0.113%
+l IS	PIRE03.35	Nhà máy phân dam	0.200%	0.150%	0.150%
+116	FlRE03.36	Nhà máy san xuât than dá bánh	0.200%	0.150%	0.150%
+117	FIRE03.37	Nhà máy sàn xuât than non bánh	0.200%	0.150%	0.150%
+118	FIRE03.38	Nhà máy sàn xuât thiêt bi cø khí	0.150%	0.113%	0.113%
+119	FlRE03.39	Nhà máy sán xuât thuôc lá và nguyên liêu thuôc lá	0.200%	0.150%	0.150%
+120	FIRE03.40	Nhà máy sàn xuât, chiêt suât chê biên tinh bôt	0.150%	0.113%	0.113%
+121	FIRE03.41	Nhà máy thùc än gia sùc	0.150%	0.113%	0.113%
+122	FIRE03.42	Nhà máy, xtròng xay bpt mì	0.150%	0.113%	0.113%
 
-STT
 
-Miinganh
+ 
 
-Nganh ngh~
+STT	
+Mã ngà nh
+nghe	
 
-ngh~
-
-Ty I~ phi
-theo ngh]
-djnh 67
-
-Ty I~ phi tBi thi~u
-ciia MIC
-THVC
-
-GDKD
-
-0.045%
-0.045%
-0.038%
-0.056%
-
-0.045%
-0.045% .
-0.038%
-0.056%
-
-CAT!
-1
-2
-3
-4
-
-FIREOI.I
-FIREOI.2
-FIREOI.3
-FlRE01.4
-
-.)
-
-FlRE01.5
-
-4.: !'
-
-.6
-·T-,·
-8
-9
-10
-II
-
-FIRE01.6
-FIRE01.7
-FlRE01.8
-FlRE01.9
-FIRE01.IO
-FlREOl.l1
-
-12
-
-FIRE01.l2
-
-12.1
-12.2
-
-, ~13
-
-FIRE01.12.1
-FlRE01.12.2
-FlRE01.l3
-
-. ~-..
-..
-
-Khach Sl;lncao cap khong nam trong khu V\fCtir Thanh Hoa den Quy
-0.050%
-Nhan co he th6ng chua chay tu dong_(gJrinkler)
-Khach Sl;lncao cap khong nam trong khu V\fCtir Thanh Hoa den Quy
-0.100%
-Nhan khong co h~ th6ng chua chay tu dong (sprinkler)
-Khach sl;lnmini, nha nghi khong n&mtrong khu VIJCtir Thanh Hoa d~n Quy Nhan
-
-FIRE01.13.2
-
-Khach Sl;lnmini, nha nghi khong nam trong khu VIJCtir Thanh Hoa
-d~n Quy Nhan c6 he th6ng chua chay tu dong (sprinkler)
-Khach sl;lnmini, nM nghi khong nam trong khu V1,l'C
-tir Thanh Hoa
-d~n Quv Nhan khong co he th6ng chua chay tu dong (sprinkler)
-
-14
-
-FlRE01.14
-
-Nha chua, Nha ThO'
-
-15
-
-FIREOl.15
-
-Nha khach khong n&mtrong khu vuc tu Thanh Hoa d~n Quy Nhan
-Nha khach khong n&mtrong kI1U vlJc tu Thanh Hoa d~n Quy Nhan co
-he th6ng chua chav tu dong (sprinkler)
-Nha khach khong nam trong khu vI,I'ctu Thanh Hoa den Quy Nhan
-khong co he th6ng chua chay tu dong (sprinkler)
-Nha may bialNha may nuac trai cay
-Nha may nuac khoang/nha may mrac u6ng cac IOl;li
-Nha may rU'Q'U
-Nha may san xu~t banh k~o
-Nha may san xuat lap rap may in, may anh, may tinh, thiet bi vi~n
-thong, ch~t ban d~n
-Nha may sua,Nha may san xu~t ch~ phdm tu sua
-
-13.1
-HI
-
-15.1
-
-FlREOI.l3.!
-
-FlRE01.15.1
-
-15.2
-
-FlREOl.l5.2
-
-16
-17
-18
-/: f9
-
-FIRE01.16
-FIREOl.17
-FIREOI.18
-FIRE01.19
-
-.... 20
-
-FIRE01.20
-
-21
-
-FIRE01.21
-
-._
-
-0.060%
-B@boi cong cong (co nha hang, phong t~p thS due dung cu)
-0.060%
-BS boi conz cong (khonz c6 nha hang, phong t~p thS due dung cu)
-0.050%
-Benh vien, Trunz tarn duang 11io,Trungfiim dieu tri suc v~t
-0.075%
-Buu di~n, Trl;lm buu chinh vi~n thong
-Can h(\ trung va cao dip ( c6 bao chay/kh6i tlJ d(\ng va bao v~ 24/24)
-0.050%
-khong co hoat dong kinh doanh
-0.080%
-Cang hang khong
-0.100%
-Cau Il;lCb(\ van hoa, Nha van hoa, H(\i trU'cmg
+Ngănh nghe	
+phí theo ngh| dțn h 67	
+Ty Ij phí toi thieu
+cùa MIC
+				THVC	GDKD
+123	FIRE03.43	Nhà máy, xiróng xay xát gao	0.150%	0.1 l 3%	0.113%
+124	FIRE03.44	Săn xuât sáp dánh bóng	0.200%	0.150%	0.150%
+125	FIRE03.45	Săn xuât hàng thù công my nghj( Không phài nguyên lieu là vài,
+giay, go)			0.200%	0.150%	0.150%
+126	FIRE03.46	Sán xuât hoăc che bien tarn b9t xop cách nhiêt	0.200%	0.150%	0.150%
+127	FIRE03.47	San xuât khoáng sàn (cua, mài, dánh bóng)	0.150%	0.113%	0.113%
+128	FIRE03.48	Săn xuât nhira dúc, nhira thanh	0.200%	0.150%	0.150%
+129	FlRE03.49	Sàn xuât sàn phâm nhua làp ráp	0.200%	0.150%	0.150%
+130	FIRE03.50	Sàn xuât vã chê bien vàng, bac, do trang súc	0.150%	0.113%	0.113%
+131	FIRE03.51	Sdn xuât vât liêu phim ành	0.150%	0.113%	0.113%
+132	FIRE03.52	Sàn xuât xà phòng, mÿ phâm	0.200%	0.150%	0.150%
+133	FIRE03.53	Sàn xuât Xăm lòp	0.200%	0.150%	0.150%
+134	FIRE03.55	Xiiòng khăc, chąm (làm chôi, bàn chài, h ' S n kh	h n  X
+gÖ)	‘ ’	’  '	
+0.200%	
+0.150%	0.150%
+135	FIRE03.56	Xuóng phim, phòng in tráng phim	0.150%	0.113%	0.113%
+136	FIRE03.57	Xtròng sàn xuât hoa giá	0.200%	0.150%	0.150%
+137	FIRE03.58	Cáp treo găn vói khu công viên giài trí	0.100%	0.075%	0.075%
+138	FIRE03.59	Nhà máy xù lÿ ntróc thài	0.150%	0.113%	0.113%
+139	F1RE03.61	Dijn măt trõi áp mái	0.120%	0.090%	0.090%
+140	FIRE03.62	Nhà Máy Dięn Mãt Tròi	0.120%	0.096%	0.090%
+141			0.500%	0.375%	0.375%
+142	FIRE03.63	Nhà máy săn xuât mút hay cao su bot	0.200%	0.150%	0.150%
+143		Cáp treo găn vói khu công viên giài trí	0.050%	0.038%	0.038%
+CAT 4			0.000%
+144	FIRE04.I	Căn hô cao câp có hoat dông kinh doanh bán lé	0.100%	0.100%	0.100%
+145	FlRE04.2	Chq kiên cô ( dąng cho kiêu iiiói xây dung gân nhu trung tâm thirong
+mai)	
+0.500%	
+0.500%	0.500,
+Zo
+146	FIRE04.3	Co' so’ chê bien bàn chä i	0.200%	0.200%	0.200%
+147	FIRE04.4	Cø sò chê biên lông vù	0.250%	0.250%	0.250%
+148	FIRE04.5	Cø sò sàn xuât , Vien nghiên ciìu phòng thí nghijni, sàn xUât vÒ S
+dung chat no, chât de cháy	
+0.200  o	
+0.200’ o	0 200’
+149	FIRE04.6	Cø só sán xuât giây ráp	0.200%	0.200%	0.200%
+150	FIRE04.7	Co sò sàn xuât hirong, vàng mã	0.500%	0.500%	0.500%
+151	FIRE04.8	Cùa hàng bán lè xăng dâu, gas	0.300%	0.300%	0.300%
+152	FIRE04.9	Resort, Khách sąn, nhà nghi, nhà khách ven biên tit Thanh Hóa dên Quy Nhon ( cách biên trong vòng I km)
+152.1	FIRE04.9.1	Resort, Khách sąn, nhà nghì, nhà khách ven bien tiï Thanh Hóa den Quy Nhon ( cách biên trong vòng I km) có spinkler	0.050%	0.050%	0.050%
+l 52.2	FIRE04.9.2	Resort, Khách sąn, nhà nghi, nhà khách ven biên tïï Thanh Hóa ên
+Quy Nhon ( cách biên trong vòng l km) không có spinkler	0.100%	0.100%	0.100%
+153	FIRE04.10	Khai khoáng (khai thác, hâm mò và nghiên sòi, 6ât set - không båo
+hiêm cho tài sàn trong ham)	
+0.200%	0.200%	0.200%
+154	FlRE04.11	Khai thác mò quăng kim loai các loai	0.200%	0.200%	0.200%
+155	FIRE04.12	Khai thác than bùn	0.500%	0.500%	0.500%
+156	FIRE04.13	Khai thác than dá	0.200%	0.200%	0.200%
+157	FIRE04.14	Khai thác than dá non	0.200%	0.200%	0.200%
+158	FIRE04.15	Kho bánh keo, niróc giài khát , dirõng	0.200%	0.200%	0.200%
+159	FIRE04.16	Kho biet lap khźc (tât cà các loai kho không nêu rõ ò dây)Kho khác
+(tat ca các loai kho không nêu rõ ò dây)	
+0.200%	
+0.200%	
 0.200%
-Ca sa kinh doanh kho Il;lnh(chi bao hiSm cho rui ro chay n6)
-0.075%
-Ca sa luu tru, Thu vi~n
-0.050%
-Ca sa y t~ kham chua b~nh ( khong phai b~nh vi~n)
-0.075%
-Dai phM thanh, truv~n hinh
-Khach sl;lncao cApkhong n&mtrong khu V\fCtir Thanh Hoa d~n Quy Nhan
-
-22
-
-FIREOI.22
-
-23
-24
-
-FlRE01.24
-FIREOl.25
-
-25
-
-lEi
-- ~'.'
-
-Nha may xi mang,Nha may san xu~t xi mang, be tong, vua dii dong
-g6i, Thap phan ph6i be tong, xi mang,Nha may san xu~t san phdm be
-tong duQ'c ua chu(\ng,Nha may san xu~t san phAm k~t cAu be tong
-
-Nha may, ca sa san xu~t mu6i cac IOl;li
-Nha t~p thS, nha chung cu
-Nha t~p thS, nha chung cu, nha a (khong ban hang) co h~ thong chua
-FIREO1.25.1
-chav t\f d(\ng (sprinkler)
-Nha t~p the, nha chung cu, nha a (khong ban hang) khong c6 h~ thong
-FIREO1.25.2
-chua chay tu dong (sprinkler)
-
-0.038%
-0.060%
-0.075%
-0.150%
-0.056%
-0.038%
-0.056%
-
-0.038%
-0.075%
-
-0.038%
-0.060%
-0.075%
-0.150%
-0.056%
-0.038%
-0.056% .
-
-0.038%
-0.075%
-
-8,
-
-0.038%
-
-0.050%
-
-0.038%
-
-0.100%
-
-0.075%
-
-0.200%
-
-0.150%
-
-0.050%
-
-0.038%
-
-0.100%
-0.150%
-0.150%
-0.150%
-0.150%
-
-0.075%
-0.113%
-0.113%
-0.113%
-0.113%
-
-0.150%
-0.150%
-
-0.113%
-0.113%
-
-0.150%
-
-0.113%
-
-0.113o/~
-
-0.200%
-0.100%
-
-0.150%
-0.075%
-
-0.150%
-0.075%
-
-0.050%
-
-0.038%
-
-0.100%
-
-0.075%
-
-0.075%
-0.1500/0,
-0.038%
-0.075%
-0.113%
-0.113%
-0.113%
-0.113%
-0.113%
-0.113%
-
--.
-..
-
-0.038%
-0.075%
-
-y.
-
-..
-
-'STT
-
-Mii nganh
-ngh~
-
-Nganh ngh~
-
-Ty I~ phi
-theo nghj
-djnh 67
-
-Ty I~ phi t8i thi€u
-cua MIC
-THVC
-
-27
-
-FlREOl.26
-
-28
-
-FIREOl.27
-
-29
-30
-31
-
-FIREOl.28
-FIRE01.29
-FIRE01.30
-
-Nha thi d~u, trung tam the thao, Dau tnrong the thao.Tnrong ban,
-Phone choi Bowling (co nha hang)
-Phong kham y te, co So' cham soc rang, CO'So' Y te cham soc sire khoe
-cho nztroi khuvet tat, tre m6 coi
-Rap chieu phim, Nha hat, nha hat kjch
-Toa nha van phong cho thue
-Buu di~n, Tram buu chlnh vi~n thong
-
-32
-
-FIRE01.31
-
-Tru So' co quan, van phong lam viec trong khu hanh chinh thirong mai
-
-33
-34
-35
-36
-
-FIREOl.32
-FIRE01.33
-FlRE01.34
-FlREOl.35
-
-37
-
-FIRE01.37
-
-38
-
-FIRE01.38
-
-Trung tam nuoi tre m6 coi, nguoi tan t~t
-Truong h9C, trunz tam dao tao
-Vien nghien ciru, trung tam thi nghiern (khong co chat d~ chav n6)
-Xuong u bia
-Nha thi d~u, trung tam the thao, Dau tnrong the thao.Tnrong ban,
-Phong choi Bowling (khong co nha hang)
-Khach san, resorts, nha khach khu vue mien Trung (khong tham gia
-bao hi~m giong bao, lCiit)t)
-
-~
-
-GDKD
-0.045%
-
-0.060%
-
-0.045%
-
-0.050%
-0.100%
-0.050%
-0.075%
-
-0.038%
-0.075%
-0.038%
-0.056%
-
-0.050%
-0.050%
-0.050%
-0.050%
-0.150%
-
-0.038%
-0.038%
-0.038%
-0.038%
-0.113%
-
-0.060%
-
-0.045%
-
-0.100%
-
-0.075%
-
-0.150%
-0.150%
-0.120%
-
-0.113%
-0.113%
-0.090%
-
-0.100%
-0.100%
-0.150%
-0.100%
-0.150%
-0.150%
-0.150%
-0.150%
-0.150%
-0.150%
-0.200%
-0.150%
-0.150%
-0.150%
-0.150%
-0.150%
-
-0.075%
-0.075%
-0.113%
-0.075%
-0.113%
-0.113%
-0.113%
-0.113%
-0.113%
-0.113%
-0.150%
-0.113%
-0.113%
-0.113%
-0.113%
-0.113%
-
-0.150%
-
-0.113%
-
-0.113%
-
-0.150%
-
-0.113%
-
-0.113%
-
-0.150%
-0.150%
-0.150%
-0.150%
+160	FIRE04.17	Kho chúa hoá chât	0.200%	0.200%	0.200%
+161	FIRE04.18	Kho côn, các chât lóng de cháy	0.200%	0.200%	0.200%
+162	FIRE04.19	Kho duwc phâm	0.200%	0.200%	0.200%
+163	FIRE04.20	Kho giây, bìa, bao bi	0.200%	0.200%	0.200%
+164	FIRE04.21	Kho hàng dông lanh	0.200%	0.200%	0.200%
+165	FIRE04.22	Kho hàng hoá tông hop ngoài tròi	0.200%	0.200%	0.200%
+166	FIRE04.23	Kho hàng hoá tông høp trong nhà	0.200%	0.200%	0.200%
+167	FIRE04.24	Kho hàng nông săn (gao, ngô, cafe, tiêu, khoai, hat diêu.	)	0.200%	0.200%	0.200%
+
+ 
+
+
+STT	
+Mã ngènh
+nghe	
+
+Ngành nghe	
+Tÿ 1j phí theo nghj dțnh 67	
+Ty lę phí toi thieu
+c6a MIC
+				THVC	GDKD
+168	FIRE04.25	Kho hàng thiet bi dien, dijn tù (Oien thoąi di dpng, TV, máy vi tính...)	
+0.200%	
+0 200%	
+0 200%
+169	FIRE04.26	Kho LPG, LNG	0.300%	0 300%	0 300%
+170	FlRE04.27	Kho ngành thuoc lá	0.200%	0.200%	0.200%
+171	FIRE04.28	Kho nhtra duòng	0.200%	0.200%	0.200%
+172	FIRE04.29	Kho phân bón	0.200%	0.200%	0.200%
+173	FIRE04.30	Kho son	0.200%	0.200%	0.200%
+174	FIRE04.31	Kho thành phâm, bán thành phâm nhya, cao su	0.200%	0.200%	0.200%
+175	FIRE04.32	Kho thuoc trïï sâu và hóa chat phuc vu nông nghijp	0.200%	0.200%	0.200%
+176	FIRE04.33	Kho tinh dâu, huong liêu, dau ăn	0.200%	0.200%	0.200%
+177	FIRE04.34	Kho vât tu ngành ành	0.200%	0.200%	0.200%
+178	FIRE04.35	Kho xăng dâu (không phài các kho xăng dâu quân dôi)	0.300%	0.300%	0.300%
+179	FlRE04.36	Nhà máy chi khâu	0.250%	0.250%	0.250%
+180	FIRE04.37	Nhà máy dôt rác	0.200%	0.200%	0.200%
+181	FlRE04.40	Nhà máy sàn xuat che bien lòng thú, may da thú	0.250%	0.250%	0.250%
+182	FłRE04.41	Nhà máy săn xuât diêm	0.500%	0.500%	0.500%
+183	FIRE04.42	Nhà máy sán xuât than cùi	0.500%	0.500%	0.500%
+184	FIRE04.43	Nhà máy san xuat ván ép (MDF)	0.500%	0.500%	0.500%
+.185	FIRE04.44	Nhà máy, cø sò sàn xuat nen	0.200%	0.200%	0.200%
+186	FIRE04.45	Nhà ò câp 4 ( theo tiêu chuân xây dung Viêt Ham)	0.100%	0.100%	0.100%
+187	FIRE04.46	Nhuôm vái, in trên vài	0.250%	0.250%	0.250%
+188	FlRE04.47	Sàn xuât bao bì carton	0.350%	0.350%	0.350%
+1 89	FlRE04.48	Sàn Xuât Bao Bì Công Nghiep (bao bì dęt PP, bao bì màng ghép, bao
+bì mùng thoi,.	)	
+0.350%	
+0.350%	
 0.350%
+190	FIRE04.49	San xuât sun (nhà máy, xuòng)	0.200%	0.200%	0.200%
+191	FlRE04.50	Phân phôi khí, gas	0.350%	0.350%	0.350%
+192	FIRE04.51	Trai nuôi sùc vât, gia súc, gia câm (không bào hiêm vât nuôi)	0.150%	0.150%	0.150%
+193	FIRE04.52	Trung tâm tô chùc dám ma/hòa táng	0.200%	0.200%	0.200%
+194	FIRE04.53	Xiróng phun sun, xtròng son	0.200%	0.200%	0.200%
+195	FIRE04.54	Xiròng dóng sách	0.200%	0.200%	0.200%
+196	FIRE04.55	Xtróng giät, là, tây, hâp, nhujm	0.250%	0.250%	0.250%
+197	FIRE04.56	Xuóng hàn, cãt	0.150%	0.150%	0.150%
+198	FlRE04.57	Xirórig săn xuât dây chun	0.250%	0.250%	0.250%
+199	FIRE04.58	Xu'óng sàn xuât dây th	h O t	hi kh U  EU d	khon	to  h
+nhua, nhua diròng)	'g	'	"	' (-	'y	p  '	0.250%	0.250%	0.250%
+200	FIRE04.59	Nhà máy/ Xuòng sàn xuât giây, chê biên giây	0.350%	0.350%	0.350%
+201	FIRE04.60	Xuòng sïia chíía xe	0.150%	0.150%	0.150%
+202	FIRE04.62	Nhà hát kich, cài lirong, rag xiêc	0.100%	0.100%	0.100%
+203	FIRE04.63	Nhà máy săn xuât pin năng lirong măt trõi	0.150%	0.150%	0.150%
+204	FIRE04.64	Kho chïïa xe ngoài tròi có dich vu bào trì và shia chíía	0.150%	0.150%	0.150%
+205	FIRE04.65	Sàn xuât và kinh doanh dông hô	0.150%	0.150%	0.150%
+206	FIRE04.66	Nhà máy sàn xuât pin	0.200%	0.200%	0.200%
+207	FIRE04.67	Bar, sàn nhăy, phòng hoà nhac	0.400%	0.400%	0.400%
+CAT 5
+208	F1RE05.I	Co só che bien phe liju vái sqi (nhu phân loąi, gieat, chài, buôn bán)	
+.200%	
+0.200%	0.200%
+209	FIRE05.2	Nhà máy dęt các loai soi khác (cotton, vitco, lanh, gai, day)	0.250%	0.250%	0.250%
+210	FIRE05.3	Nhà máy dêtto, len, soi tông hop	0.250%	0.250%	0.250%
+211	FIRE05.4	Nhà máy sän xuât thäm, tâm trài sàn	0.250%	0.250%	0.250%
+212	FIRE05.5	Xiròng xe kéo soi	0.250%	0.250%	0.250%
+213	FIRE05.6	May quân áo các loai, Xí nghiêp may	0.250%	0.250%	0.250%
+214	FIRE05.7	Xu	g dêt kim	0.250%	0.250%	0.250%
+215	FlRE05.8	Sán xuût dô gô gia dung có nhôi, fót (có st dung bot nhpa hoac cao SU
+^ P )	
+0.500° o	
+0.500° o	0.500° o
+216	FIRE05.9	Nhà Máy San Xuât Noi Thât Văn Phòng vói vat lieu dê cháy ( go,
+giây..)	
+0.500%	
+0.500%	0.500%
+217	FIRE05.10	Sàn xuât các sán phâm dêt chua phân loai khác	0.250%	0.250%	0.250%
+218	FIRE05.I l	Sàn xuât lua, to tăm	0.250%	0.250%	0.250%
+
+ 
+
+
+STT	
+Mã ngành nghe	
+
+Ngành nghe	
+Ty lj phí theo nghi djnh 67	
+Ty Iç phí toi thieu
+cúa MIC
+				THVC	GDKD
+219	FIRE05.12	Xiróng cua	0.500%	0.500%	0.500%
+220	FIRE05.13	May dô lót, dbng ten các loai	0.250%	0.250%	0.250%
+221	F1RE05.14	Nhà máy giây	0.350%	0.350%	0.350%
+222	FIRE05.15	Kho bông vài sei, len da, sàn phâm dêt	0.250%	0.250%	0.250%
+223	FIRE05.16	Kho dô go và các sàn phâm ve go	0.200%	0.200%	0.200%
+224	FIRE05.17	Nhà máy cua xê go	0.500%	0.500%	0.500%
+223	FIRE05.18	Nhà máy sàn xuat dô go	0.500%	0.500%	0.500%
+226	FIRE05.19	Xuóng làm rô sot	0.500%	0.500%	0.500%
+227	FIRE05.20	Xtróng chê biên do go khác	0.500%	0.500%	0.500%
+228	FIRE05.21	Xiróng sàn xuât dô gô gia dung	0.500%	0.500%	0.500%
+229	FIRE05.22	Sàn xuât dô gô gia d9ng có nhôi, lót (không sir dqng bpt nhya hoiac
+cao su xop )	
+0.500%	
+0.500%	0.500%
+230	FIRE05.23	Xiróng sàn xuât dây thirng, chão trii chi khâu (nêu dây có phü nhua,
+nhua dtrõng)	
+0.250%	
+0.250%	0.250%
+231	FIRE05.24	Sàn xuât bút chi gô	0.500%	0.500%	0.500%
+232	FIRE05.26	Kho giày	0.200%	0.200%	0.200%
+CAT 6				
+233	FIRE06.01	Kho xãng dâu trong ngành Çquân dôi)	0.300%	0.300%	0.300%
+	Các dôi tuong khác			
 
-0.113%
-0.113%
-0.113%
-0.113%
-0.263%
 
-0.113%
-0.113% .
-0.113%
-0.113%
-0.263%
 
-0.038%
-0.075%
-0.038%
-0.056%
-0.038%
-0.038%
-0.038%
-0.038% .
-0.113%
-0.045% .
-0.075%
 
-CAT 2
-CO'sa/nha may san xuat thiSt bi di~n, thiet bi di~n gia dt,mg, thiet bi
-di~n tu' gia dung
-Cua hang (showroom) ban 0 to xe may
-Trung tam t6 chuc hoi chq,Trung tam tri~n lam
-Kho phI) tung kim lo~i cO'khi ( Kho rieng bi~t chi bao hiem rui ro
-chay, n6)
-Kho g~ch, gom su(' kho rieng bi~t chi bao hi~m rui ro chay n6)
-Nha may san xu~tll~p rap 0 to, mo to
-Nha ga, bSn tau, ben xe
-Nha hang
-Nha may chS biSn thuc an khac
-Nha may che biSn, gia cong qu~ng khac
-Nha may san xu~t may bay va phI) tung may bay
-Nha mav duQ'c ph~m
-Nha may duerng
-Nha may in, xuang in (khong san xu~t gi~y, chS biSn gi~y)
-Nha may nhi~t di~n ch~y b~ng khi, d~u
-Nha may nhi~t di~n ch~v b~ng than
-Nha may san xdt cftu truc kim lo~i va cftu ki~n l~p s~n
-Nha may san xu~t d~u an
-Nha may san xu~t che
-Nha may san xuat bu long, dai oc, dinh tan, oc vit va gia cong cac kim
-lo~i khac
 
-0.113%
 
-..39
-.
 
-.
-
-FlRE02.1
-
-: "i}0
-41
-
-FIRE02.2
-FIRE02.3
-
-42
-
-FlRE02.4
-
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-
-54
-55
-- 56
-···57
-
-FlRE02.5
-FIRE02.6
-FlRE02.7
-FlRE02.8
-FIRE02.9
-FlRE02.10
-FlRE02.12
-FlRE02.14
-FlRE02.15
-FIRE02.16
-FIRE02.17
-FlRE02.18
-FlRE02.19
-FIRE02.20
-FIRE02.21
-
-58
-
-FlRE02.22
-
-59
-
-FlRE02.23
-
-60
-61
-(i2
-
-FlRE02.24
-FlRE02.25
-FIRE02.26
-FlRE02.27
-FiRE02.28
-
-Nha may san xuat phI) tung 0 to, xe d~p, xe may va phI) tung kim lo~i
-khac
-Nha may san xu~t s~t
-Nha may san xu~t thep (khong co can nong)
-Nha may sim xu~t tht,rc ph~m d6 h9P
-Nha may san xu~t vo d6 h9P kim lo~i
-Nha may 19Cd~u duai 10 nam
-
-FIRE02.29
-
-San xu~t d6 g6m cao cftp nhu g~ch lat, d6 su, d6 d~t nung, d6 g6m
-
-0.150%
-
-0.113%
-
-0.113%
-
-FIRE02.30
-FlRE02.31
-FlRE02.32
-FlRE02.33
-FIRE02.34
-FIRE02.35
-FlRE02.36
-
-San xu~t do g6m thong thuerng
-San xu~t va chS biSn kinh cua
-San xu~t va chS biSn sQ'ithuy tinh
-San xu~t va chS biSn thuv tinh r6ng, chai 19, dl)ng Cl)Quang h9C
-Tr~m biSn ap tu 110KY dSn 500KY
-Tr~m biSn ap tu 500KY tra len
-Trung tam thuang m~i, sieu thi
-
-0.150%
-0.150%
-0.150%
-0.150%
-0.200%
-0.200%
-0.080%
-
-0.113%
-0.113%
-0.113%
-0.113%
-0.150%
-0.150%
-0.060%
-
-0.113%
-0.113%
-0.113%
-0.113%
-0.150%
-0.150%
-0.060%
-
-..~.
-
-,
-
-, -S3-
-
-. ·.63.
-: -..64
-..
-...
-..
-
-65
-66
-67
-68
-69
-70
-71
-72
-
-..
-'.',.
-
-0.113%'
-0.090%
-0.075%
-0.075%
-0.113% ._
-0.075%
-0.113%
-0.113%
-0.113%
-0.113% .
-0.113%
-0.113%
-0.150%
-0.113%
-0.113%
-0.113%
-0.113%
-0.113% .
-
-TOFI
-; TVI
-
-~O~
-
-.1.4.1\
-
-_ ...
-
--
-
-".
-
-STT
-
-Mii nganh
-ngh~
-
-Nganh ngh~
-
-Ty l~ phi
-theo ngh]
-djnh 67
-
-Ty I~ phi t5i thi~u, ~,
-ciia MIC
-THVC
-
-73
-
-FIRE02.37
-
-74
-75
-76
-77
-78
-79
-80
-81
-CAT 3
-82
-83
-84
-85
-
-FIRE02.38
-FIRE02.39
-FIRE02.40
-FIRE02.41
-FIRE02.45
-FIRE02.46
-FIRE02.47
-FIRE02.48
-
-San xuat v~t li~u xay dung (khong phai cac nguyen lieu nhua, xop,
-Igifty, g6)
-Trung tam nuoi thuy san
-Truong dua, san v~n dQng
-Xirong mach nha
-Nha may thuy di~n
-Cira hang bach h6a
-San xuat cap quang, cap d6ng
-Nha may san xuat kinh tam
-Trung tam chi huy, dieu dQ, di~u hanh, di~u khien
-
-FIRE03.1
-FIRE03.4
-FIRE03.5
-FIRE03.6
-
-Bai d6 xe
-Can hQ trung, cao cftp ( c6 hoat dQng kinh doanh ban le)
-Cang bien, cang song
-du tau/Bili d6 tau
-
-86
-
-FIRE03.7
-
-Ch~ bi~n (soi, da dam, than xi trQn nhua) voi asphant hoac bitumen
-
-87
-88
-
-FIRE03.8
-FIRE03.9
-FIRE03.10
-FIRE03.11
-
-Co sa san xuiit ao di rmra, nhua tftm, khan trai ban
-Co sa san xuftt nut chai
-Co sa vi! tranh, phonz tranh, lam pano QUangcao
-Gara may bay
-Khach san, Resort va nha khach (Ven bien til Thanh H6a den Quy
-Nhon each bo bien tinh til men nuoc han 1 km)
-Khach san, Resort va nha khach (Ven bien til Thanh H6a den Quy
-Nhan cach ba biSn tinh til mep nuac hon 1 km)
-Kho chua xe (0 to, mo to) c6 mai che/khong c6 mai che khong c6 djch
-V\l bao tri va sU'acha'a
-Kho gllch, d6 g6m su
-Kho kim lo~i, phI) tung co khi
-Kho v~t Ii~u xay d\l'ng (khong c6 g6, gifty, x6p, chat long de chay)
-La duc
-Luy~n qu~ng (tru qu~ng s~t)
-Nha may Ico sa gi~t m6 suc v~t
-Nha may ch~ bi~n san xuftt cafe, hilt di~u
-Nha may danh b6ng gllo
-Nha may d6ng tim va sua chua tau
-Nha may h6a chat vo co va huu co che bien nguyen li~u va ban thanh
-phllm san phllm nhu phan b6n dllng hilt, vien nho, bQt ho~c axit, mu6i,
-dung moi cao su t6ng hO'P
-Nha may lam phan trQn
-Nha may 19Cd~u hOllt dQng tren 15 nam
-Nha may luu hoa cao su
-Nha may luy~n than c6c
-Nha may phong di~n (di~n gi6) tren dftt lien
-Nha may san xuftt cac san phllm tu cao su
-Nha may san xuftt chftt deo, cao su d~c
-Nha may san xuftt da thuQc
-Nha may san xuftt long va, thu nh6i bong, d~m
-Nha may san xuiit ml an Ii~n, chao an li~n
-Nha may san xuftt nuac m~m, dftm
-Nha may phan dllm
-Nha may san xuftt than da banh
-Nha may san xuftt than non banh
-Nha may san xuftt thiet bi co khl
-Nha may san xuftt thu6c la va nguyen Ii~u thu6c 1a
-Nha may san xuftt, chiet suftt ch~ bi~n tinh bQt
-Nha may thuc an gia suc
-Nha may, xuang xay bQt mi
-
-':89
-···.. 90
-._91
-. - .
-
-FIRE03.12
-
-..
-
-,
-
-92
-93
-
-FIRE03.13
-
-94
-95
-96
-97
-98
-99 .
-
-101
-102
-
-FIRE03.14
-FlRE03.15
-FIRE03.16
-FIRE03.17
-FlRE03.18
-FlRE03.19
-FlRE03.20
-FIRE03.21
-FIRE03.22
-
-103
-
-FIRE03.23
-
-- ·.foo
-
-...-
-
-..
-
-FIRE03.12
-
-104 FlRE03.24
-105 FlRE03.25
-FlRE03.26
-106
-107 FIRE03.27
-108 FIRE03.28
-109 FlRE03.29
-UO FlRE03.30
---rB FIRE03.31
-; ':1'12 FIRE03.32
-(13 FIRE03.33
-- 114 FIRE03.34
-115 FlRE03.35
-116 FlRE03.36
-117 FIRE03.37
-118 FlRE03.38
-119 FIRE03.39
-120 FIRE03.40
-121 FlRE03.41
-122 FlRE03.42
-
-,.
-~., .?
-
-0.200%
-0.160%
-0.060%
-0.150%
-0.120%
-0.080%
-0.150%
-0.150%
-0.080%
-
-0.150%
-0.120%
-0.045%
-0.113%
-0.090%
-0.060%
-0.113%
-0.113%
-0.060%
-
-0.100%
-0.050%
-0.100%
-0.100%
-
-0.075%
-0.038%
-0.075%
-0.075%
-
-0.150%
-0.200%
-0.200%
-0.200%
-0.200%
-
-0.113%
-0.150%
-0.150%
-0.150%
-0.150%
-
-0.100%
-
-0.075%
-
-GDKD
-0.150%
-0.120%
-0.045%
-0.113%
-0.090%
-0.060%
-0.113%
-0.113%
-0.060%
-0.075%
-0.038%
-0.075%
-0.075%
-0.113%
-0.150%
-0.150%
-0.150% .
-0.150%
-0.075%
-..
-
-0.075%
-
-0.100%
-
-0.075%
-
-0.120%
-0.100%
-0.100%
-0.200%
-0.150%
-0.200%
-0.150%
-0.150%
-0.150%
-0.200%
-
-0.090%
-0.075%
-0.075%
-0.150%
-0.113%
-0.150%
-0.113%
-0.113%
-0.113%
-0.150%
-
-0.200%
-
-0.150%
-
-0.150%
-
-0.200%
-0.350%
-0.200%
-0.200%
-0.120%
-0.200%
-0.200%
-0.200%
-0.200%
-0.150%
-0.150%
-0.200%
-0.200%
-0.200%
-0.150%
-0.200%
-0.150%
-0.150%
-0.150%
-
-0.150%
-0.263%
-0.150%
-0.150%
-0.090%
-0.150%
-0.150%
-0.150%
-0.150%
-0.113%
-0.113%
-0.150%
-0.150%
-0.150%
-0.113%
-0.150%
-0.113%
-0.113%
-0.113%
-
-0.150%
-0.263%.
-0.150%
-0.150%
-0.090%
-0.150%
-0.150%
-0.150%
-0.150%
-0.113%
-0.113%
-0.150%
-0.150%
-0.150%
-0.113%
-0.150%
-0.113%
-0.113%
-0.113%
-
-'
-
-4"
-
-0.090%
-
-G
-0.075%
-0.075%
-0.150%
-0.113%
-0.150%
-0.113%
-0.113%
-0.113%
-0.150%
-
-..
-
-STT
-
-Ma nganh
-ngh~
-
-123
-124
-
-FlRE03.43
-FTRE03.44
-
-125
-
-FIRE03.45
-
-126
-" 127
-I 128
-129
-.130
-131
-132
-133
-
-FlRE03.46
-FTRE03.47
-FlRE03.48
-FlRE03.49
-FlRE03.50
-FIRE03.51
-FIRE03.52
-FIRE03.53
-
-134
-
-FIRE03.55
-
-135 FIRE03.56
-136 FlRE03.57
-137 FlRE03.58
-138 FIRE03.59
-, ,139
-FTRE03.61
-.'::'140
-FlRE03.62
-, 141
-142 FIRE03.63
-143
-CAT 4
-144 FlRE04.1
-145
-
-FlRE04.2
-
-146
-147
-
-FlRE04.3
-FlRE04.4
-
-148
-
-FlRE04.5
-
-149
-- ·l50
-.. .-151
-
-FlRE04.6
-FIRE04.7
-FlRE04.8
-
-15i
-
-FIRE04.9
-
-.. ........
-,_.
-
-,- 152.1 FTRE04.9.1
-152.2 FTRE04.9.2
-153
-
-FIRE04.10
-
-154
-155
-156
-,157
-: 758
-
-FlRE04.11
-FTRE04.12
-FTRE04.13
-FIRE04.14
-FlRE04.15
-
-159
-
-FJRE04.16
-
-1'60
-:161
-162
-163
-164
-165
-166
-167
-
-FlRE04.17
-FIRE04.18
-FTRE04.19
-FIRE04.20
-FlRE04.21
-FIRE04.22
-FIRE04.23
-FlRE04.24
-
-"
-
-Nganh ngh~
-
-Nha may, xuonz xav xat gao
-San xuftt sap danh bong
-San xuat hang thu c6ng my ngh~( Kh6ng phai nguyen li~u la vai,
-gifty, g6)
-San xuftt hoac ch~ bi~n tam bot x6p each nhiet
-San xuat khoanz san (cira, mai, danh b6ng)
-San xuat nhua due, nhira thanh
-San xuat san ph§m nhua HlP rap
-San xuat va ch~ bi~n Yang, bac, d6 trang sire
-San xuat v~t li~u phim anh
-San xuftt xa phong, my pham
-San xuat Xam 16p
-Xuong khac, cham (lam choi, ban chai, ch6i san, kh6ng c6 phan xu Iy
-Ig6)
-Xuonz phim, nhonz in tranz ohim
-Xuong san xuftt hoa gia
-Cap treo g~n voi khu cona vien giai tri
-Nha may xu Iy mroc thai
-Di~n mat troi an mai
-Nha May Di~n M~t Troi
-Nha may san xuftt mut hay cao su b9t
-Cap treo gan vai khu c6ng vien giai tri
-
-Ty I~ phi
-theo ngh]
-djnh 67
-
--.
-Ty I~ phi tai thi~u: ..
-. ,
-ella MIC
-
-0.150%
-0.200%
-
-THVC
-0.113%
-0.150%
-
-GDKD
-0.113%
-0.150%
-
-0.200%
-
-0.150%
-
-0.150%
-
-0.200%
-0.150%
-0.200%
-0.200%
-0.150%
-0.150%
-0.200%
-0.200%
-
-0.150%
-0.113%
-0.150%
-0.150%
-0.113%
-0.113%
-0.150%
-0.l50%
-
-0.150%
-0.113%
-0.150%
-0.150%
-0.113%
-0.113% .
-0.150o/~
-0.150%
-
-0.200%
-0.150%
-0.200%
-0.100%
-0.150%
-0.120%
-0.120%
-0.500%
-0.200%
-0.050%
-
-0.150%
-0.l13%
-0.150%
-0.075%
-0.l13%
-0.090%
-0.096%
-0.375%
-0.150%
-0.038%
-
-0.150%
-0.113%
-0.150%
-0.075%
-0.113%
-0.090%
-0.090%
-0.375%
-0.150%
-0.038%
-0.000%,·'·
-0.100o/~..
-
-0.l00%
-0.100%
-Can h9 cao dp co ho~t d9ng kinh doanh ban Ie
-Chg kien c6 ( d~ng chg kieu mai xay d\fl1ggAn nhu trung tam thuang
-0.500%
-0.500%
-0.500%
-mai)
-0.200%
-0.200%
-0.200%
-Co' so' ch~ bi~n ban chili
-0.250%
-0.250%
-0.250%
-Ca sa ch~ bi~n 16ng vi'i
-Ca sa san xuat , Vi~n nghien Clru phang thi nghi~m, san xuat va su
-0.200%
-0.200%
-0.200%
-dung chftt n6, chftt d~ chay
-0.200%
-0.200%
-0.200%
-Ca sa san xuftt giftv rap
-0.500%
-0.500%
-0.500%
-Ca sa san xuftt huang, yang rna
-0.300%
-0.300%
-0.300%
-Cua hang ban Ie xang dau, gas
-Resort, Khach s~n, nha nghi, nha khach yen biSn tiI Thanh Hoa d~n Quy Nhan ( cach biSn trong yang 1 km)
-Resort, Khach s~n, nha nghi, nha khach yen biSn tiI Thanh Hoa d~n
-Quy Nhan ( cach biSn trong yang 1 km) c6 spinkler
-Resort, Khach s~n, nha nghi, nha khaeh yen bi€n tlr Thanh Hoa den
-IOuv Nhan (cach biSn trong yang 1 km) kh6ng co spinkler
-Khai khoang (khai thac, ham mo va nghien soi, dat set - kh6ng bao
-hiSm eho tai san trong hAm)
-Khai thac mo qu~ng kim lo~i cae lo~i
-Khai thac than bun
-Khai thae than da
-Khai thac than da non
-Kho banh k(fo, nuae giai khat, dui'mg
-Kho bi~t I~p khac (tat ca cac lo~i kho kh6ng neu ro a day)Kho khae
-(tftt ea cac loai kho khong neu ro a day)
-Kho ehu'a hoa ehftt
-Kho e6n, cac chftt long d~ chay
-Kho dugc phiim
-Kho gifty, bia, bao bi
-Kho hang dong I~nh
-Kho hang hoa t6ng hgp ngoai troi
-Kho hang hoa t6ng hgp trong nha
-Kho hang nong san (g~o, ngo, cafe, tieu, khoai, h~t di~u .... )
-
-0.050%
-
-0.050%
-
-0.050% -.
-
-0.100%
-
-0.100%
-
-0.100%
-
-0.200%
-
-0.200%
-
-0.200%
-0.500%
-0.200%
-0.200%
-0.200%
-
-0.200%
-0.500%
-0.200%
-0.200%
-0.200%
-
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-
-0.200%
-0.200%
-0.500%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-
-,
-
-.
-STT
-
-Mii nganh
-ngh~
-
-Nganh ngh~
-
-FlRE04.25
-
-Kho hang thi~t bj di~n, di~n tu (f)i~n thoai di dong, TV, may vi tinh ... )
-
-169 FIRE04.26
-170 FlRE04.27
-" 1-7'1 FIRE04.28
-172 FIRE04.29
-173 FIRE04.30
-174 FIRE04.31
-175 · FlRE04.32
-176 FIRE04.33
-177 FIRE04.34
-178 FlRE04.35
-179 FIRE04.36
-180 FlRE04.37
-181 FlRE0404O
-1.82 FlRE0404l
-183 FlRE04042
-184 FIRE04043
-:.,J85
-FIRE04044
-. -186 · FlRE04045
-·187, FlRE04046
-" ],88 FlRE04047
-
-168
-
-.199
-
-FIRE04.58
-
-200
-. 201
-202
-203
-204
-205
-206
-207
-
-FIRE04.59
-FIRE04.60
-FlRE04.62
-FIRE04.63
-FlRE04.64
-FlRE04.65
-FIRE04.66
-FIRE04.67
-
-KhoLPG, LNG
-Kho nzanh thuoc la
-Kho nhua duona
-Kho phan b6n
-Kho son
-Kho thanh phdm, ban thanh oharn nhira, cao su
-Kho thuoc trir sau va h6a ch~t phuc vu nong nghiep
-Kho tinh d~u, huang lieu, d~u an
-Kho v~t nr nzanh anh
-Kho xang d~u (khong phai cac kho xang d~u quan doi)
-Nha may chi khau
-Nha may d6t rae
-Nha may san xu~t che bi~n long thu, may da thu
-Nha may san xuat diem
-Nha may san xu~t than cui
-Nha may san xu~t van ep (MOF)
-Nha may, Co' sa san xu~t n~n
-Nha a dp 4 ( theo tieu chudn xay dung Vi~t Nam)
-Nhuern vai, in tren vai
-San xu~t bao bi carton
-San Xu~t Bao Bi Cong Nghiep (bao bl d~t PP, bao bi mang ghep, bao
-bl mung th6i, .... )
-San xu~t san (nha may, xuang)
-Phan ph6i khi, gas
-Tr:,tinuoi suc v~t, gia suc, gia dm (khong bao hi~m v~t nuoi)
-Trung tam t6 chuc dam ma/hoa tang
-Xuangphunsan,xuangsan
-Xuang d6ng sach
-Xuang gi~t, la, tdy, h~p, nhuom
-Xuang han, c~t
-Xuang san xu~t day chun
-Xuang san xuat day thlIng, chao tru chi khau (neu day khong c6 phu
-nhua, nh\fa duemg)
-Nha may/ Xuang san xu~t gi~y, ch~ bien gi~y
-Xuang sua chua xe
-Nha hilt kjch, cai luang, r:,tpxi~c
-Nha may san xu~t pin nang luang m~t trai
-Kho chu'a xe ngoai trai c6 djch V\lbao tri va sua chua
-San xu~t va kinh doanh d6ng h6
-Nha may san xu~t pin
-Bar, san nhay, phong hoa nh:,tc
-
-~4'08
-,.~,
-
-FlRE05.1
-
-Co' sa ch~ bi~n ph~ li~u vai sqi (nhu phan lo:,ti,gi~t, chili, buon ban)
-
-209
-210
-, 212
-213
-214
-
-FlRE05.2
-FIRE05.3
-FlRE0504
-FIRE05.5
-FlRE05.6
-FlRE05.7
-
-215
-
-FlRE05.8
-
-216
-
-FIRE05.9
-
-217
-218
-
-FlRE05.10
-FIRE05.11
-
-Nha may d~t cac lo:,tisqi khac (cotton, vitco, lanh, gai, day)
-Nha may det to', len, sai t6ng hQ'p
-Nha may san xu~t tham, t~m trai san
-Xuang xe keo sqi
-May qu~n ao cac lo:,ti,Xi nghi~p may
-XU'ang d~t kim
-San xuit do g6 gia d\lng c6 nhoi, 16t (co su d\lng b9t nh\fa ho~c cao su
-x6p)
-Nha May San Xuat Noi That Van Phong vai v~t Ii~u d~ chay ( g6,
-Igi~y..)
-San xu~t cac san phdm d~t chua phan lo:,tikhac
-San xu~t l\la, to' t~m
-
-189
-
-FIRE04048
-
-190 FIRE04049
-191 F1RE04.50
-192 F1RE04.51
-193 FIRE04.52
-194 FIRE04.53
-195 · FIRE04.54
-196 FlRE04.55
-, T97
-FIRE04.56
-;:198 FlRE04.57
-.'
-
-Ty I~ phi
-theo ngh]
-djnh 67
-
-Ty I~ phi t8i thi~u""
-ella MIC
-THVC
-
-GDKD
-
-0.200%
-0.300%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.300%
-0.250%
-0.200%
-0.250%
-0.500%
-0.500%
-0.500%
-0.200%
-0.l00%
-0.250%
-0.350%
-
-0.200%
-0.300%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.300%
-0.250%
-0.200%
-0.250%
-0.500%
-0.500%
-0.500%
-0.200%
-0.100%
-0.250%
-0.350%
-
-0.200%
-0.300%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200%
-0.200% ,
-0.200%.·.
-0.200%
-0.300%
-0.250%
-0.200%
-0.250%
-0.500%
-0.500%
-0.500%
-0.200%.
-0.100%
-0.250%
-0.350%
-
-0.350%
-0.200%
-0.350%
-0.150%
-0.200%
-0.200%
-0.200%
-0.250%
-0.150%
-0.250%
-
-0.350%
-0.200%
-0.350%
-0.150%
-0.200%
-0.200%
-0.200%
-0.250%
-0.150%
-0.250%
-
-0.350%- .
-0.200%
-0.350%
-0.150%
-0.200%
-0.200%
-0.200%
-0.250%
-0.150%
-0.250%
-
-0.250%
-0.350%
-0.150%
-0.100%
-0.150%
-0.l50%
-0.150%
-0.200%
-00400%
-
-0.250%
-0.350%
-0.150%
-0.l00%
-0.l50%
-0.150%
-0.150%
-0.200%
-00400%
-
-0.200%
-0.250%
-0.250%
-0.250%
-0.250%
-0.250%
-0.250%
-
-0.200%
-0.250%
-0.250%
-0.250%
-0.250%
-0.250%
-0.250%
-
-0.500%
-
-0.500%
-
-0.500%
-0.250%
-0.250%
-
-0.500%
-0.250%
-0.250%
-
-,
-
-0.250%
-0.350%
-0.150% ..
-0.100%" ,
-0.150%
-0.150%
-0.150%
-0.200%
-00400%
-
-CATS
-..
-
-"
-
-. ZJ.1
-
-~- ',.
-
-0.200%
-0.250%
-0.250%
-0.250%
-0.250% .
-0.250%, .
-0.250%
-0.500%
-0.500%
-0.250%
-0.250%
-
-.~
-('
-
-~
-N
-
-\
-
-....
-
-STT
-
-Mii nganh
-ngh~
-
-219
-220
-221
-222
-- 223
-224
-225
-226
-·227
-228
-
-FIRE05.12
-FIRE05.13
-FIRE05.14
-FIRE05.l5
-FIRE05.16
-FTRE05.17
-FIRE05.18
-FTRE05.l9
-FIRE05.20
-FlRE05.21
-
-229
-
-FIRE05.22
-
-230
-
-FlRE05.23
-
-Nganh ngh~
-
-XUOng cira
-May do 16t, dang ten cac loai
-Nha may gi~y
-Kho bong vai soi, len da, san pham d~t
-Kho do g6 va cac san pham v~ g6
-Nha may cira xe g6
-Nha may san xuat do g6
-XUOng lam r6 sot
-<,
-XUOng ch€ bien db g6 khac
-Xirong san xu§.t db g6 gia dung
-San xuat do g6 gia dung co nhoi, 16t (khong sir dung bot nhua hoac
-cao su xop )
-XUOng san xuat day thirng, chao tnr chi khau (neu day co phu nhua,
-nhua duonz)
-San xu§.t but chi g6
-Kho giay
-
-231 FIRE05.24
-232 FlRE05.26
-CAT 6
-Kho xang d~u trona nganh ( quan dQi)
-,-_233 FlRE06.01
-...
-Cac doi nrong khac
-
-~,
-
-Ty I~ phi
-theo nghj
-djnh 67
-
-Ty I~ phi tai thi~u
-ciia MIC
-
-0.500%
-0.250%
-0.350%
-0.250%
-0.200%
-0.500%
-0.500%
-0.500%
-0.500%
-0.500%
-
-THVC
-0.500%
-0.250%
-0.350%
-0.250%
-0.200%
-0.500%
-0.500%
-0.500%
-0.500%
-0.500%
-
-0.500%
-
-0.500%
-
-0.250%
-0.500%
-0.200%
-
-0.250%
-0.500%
-0.200%
-
-0.300%
-
-0.300%
-
-GDKD
-0.500%
-0.250%
-0.350%
-0.250%
-0.200%
-0.500%
-0.500%
-0.500%
-0.500% ..: .
-0.500%
-.'
-
-0.500%
-0.250%
-0.500%
-0.200%
-0.300%
-
-
