@@ -8,41 +8,23 @@ Biêu phí toi thiêu nghiep vç Bào hiêm Máy móc thiet bi chù thau năm 20
 Phí cho thòi gian ngan hąn = Tÿ le phí 01 năm*Thõi hąn bão hiem (ngày)/365 ngày
 4.	Dich vu có tái bão hiêm tąm thõi tÿ le phí së theo phí chap thuan cùa nhà tái bão hiem.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+TT	Mã doi tirqng	Tên máy móc /thet bi	TLP toi
+thiêu
+A	CPM01	Máy móc và thiêt bi riêng lé	
+I	CPM01.1	Máy móc xây dog	
+1	CPM01.l.l	Can cau	0.30%
+2	CPM01.1.2	Thiet bi di dòi dat	0.40%
+3	CPM01.1.3	Máy dam	0.20%
+4	CPM01.1.4	Máy xây dog	duõng bo, duõng ray	0.23%
+5	CPM0l.1.5	Máy dóng coc/máy khoan	0.23%
+6	CPM01.1.6	Giao thông van tài	0.29%
+7	CPM01.1.7	Máy dào ham	0.90%
+8	CPM01.1.8	Máy xây dog	cau	0.25%
+9	CPM01.1.9	Máy móc hoąt dong trên sà lan/ thuyen	0.90%
+10	CPM0l.1.11	Thiet bi nâng mò rong sà lan	0.78%
+l l	CPM01.1.12	Thiet bi nâng trên bõ	0.30%
+II	CPM01.2	Thiet b| xây dog	(là bo phan cùa máy móc xây dog)	0.30%
+B	CPM02	Nhupng theo he thong máy móc dong bo	0.20%
 Bieu phí toi thieu nghiep vç Bào hiem Tài săn năm 2025
 
 1.	Doi tirong áp dung: Toàn bo den bào hiem tài săn gom cháy nô băt bupc, hòa hoąn và các rùi ro däc biet, m9i rüi ro tài sàn
@@ -53,97 +35,177 @@ Phi cho thói gian ngan hąn = Tÿ le phí 01 näm*Tlaõi hąn băo hiem (ngày)
 
 
 
+STT	
+Mñ ngùnh nghe	
+
+Ngành nghe	
+TQ lj phí theo nghț dțnh 67	
+Ty lj phí toi thieu
+cúa MIC
+				THVC	GDKD
+CAT 1				
+I	FIREO 1.1	Bê boi công công (có nhà hàng, phòng tâp tliê duc dung cu)	0.060%	0.045%	0.045%
+2	FIREO 1.2	Bê but công công (không có nhà hàng, phòng tâp tliê duc dung cu)	0.060%	0.045%	0.045%
+3	FIREO 1.3	Bênh viên, Trung tâm diröng lăo,Trung tâm diêu tri súc vât	0.050%	0.038%	0.038%
+4	FIRE0I.4	Btu diên, Tram biru chính viên thông	0.075%	0.056%	0.056%
+5	FIRE0I.5	Cbn h{o trung và cao câp ( có báo cháy/khói t	n	b O	24 24
+không có hoat dôn kinh doanh	' " '  '	'  “e	’  ’	
+0.050%	
+0.038%	0.038%
+’6	FIRE0I.6	Càng hàng không	0.080%	0.060%	0.060%
+7	FIRE0l.7	Câu lac bô văn hóa, Nhà văn hoá, Hôi trtròng	0.100%	0.075%	0.075%
+8	F1RE0I.8	Cø só kinh doanh kho lanh (chi bào hiêm cho rùi ro cháy nô)	0.200%	0.150%	0.150%
+9	FIREO 1.9	Cø só í u u trtr, Thu viên	0.075%	0.056%	0.056%
+10	FIREO 1.10	Co só y tê khám chiia bênh ( không phài bênh vijn)	0.050%	0.038%	0.038%
+11	FIREO 1.11	Oài phát thanh, truyên hình	0.075%	0.056%	0.056%
+1 2	FIRE01.12	Khách sąn cao cap không nam trong khu vqc tiï Thanh Hoá den Quy Nho	n		
+1 2.1	
+FIREO I.12.1	Khách sąn cao câp không năm trong khu vie tù Thanh Hoá dên Quy
+Nhon có hê thong chaa cháy tir dông (sprinkler)	
+0.050%	
+0.038%	0.038%
+I 2.2	
+FIREO I.12.2	Khách sąn cao câp không năm trong khu virc tiï Thanh Hoá dên Quy
+Nhon không có hê thong chúa cháy ttr dông (sprinkler)	
+0.100%	
+0.075%	075%
+‘
+1 3	FI RE0I.13	Khách sąn mini, nhà nghi không năm trong khu vçrc tir Thanh Hoá dên Qu	y Nhon		
+13.1	
+FIRE0l.13.1	Khách sąn mini, nhà nghí không näm trong khu vie tiï Thanh Hoá
+den Quy Nhon có hê thong chíía cháy tu dông (sprinkler)	
+0.050%	
+0.038%	0.038%
+	
+FIREO1.1 3.2	Khách sąn mini, nhà nghi không näm trong khu vie tiï Thanh Hoá
+den Quy Nhøn không có hê thong china cháy tir dông (sprinkler)	
+0.100%	
+0.075%	0.075%
+1 4	FIREO1.14	Nhà chùa, Nhà Thò	0.200%	0.150%	0.150%
+15	FIREO 1.15	Nhà khách không năm trong khu vuc tiï Thanh Hoá dên Quy Nhwn			
+15.1	
+FIREO 1.15.1	Nhà khách không năm trong khu vąc tiï Thanh Hoá dên Quy Nhon ó
+hj thong chúa cháy tu djng (sprinkler)	'	
+0.050%	
+0.038%	0.038%
+1 5.2	FIREO 1.15.2	Nhà khách không năm trong khu vç'c th Thanh Hoá dên Quy Nhon
+không có hj thong chiia cháy tir dông (sprinkler)	
+0.100%	
+0.075%	0.075%
+16	FIRE0l.16	Nhà máy bra/Nhà máy nuóc trái cây	0.150%	0.113%	0.113%
+17	FIRE0l.17	Nhà máy nu'óc khoáng/nhà máy niróc uông các loai	0.150%	0.113%	0.113%
+lS	FIRE0l.18	Nhà máy rirou	0.150%	0.113%	0.113%
+  '9		FIRE01.19		hà	á sàn xuât bánh kęo
+Nhà máy sàn xuât lăp ráp máy in, máy ành, máy tính, thiêt bi viên
+thông, chat bán dan	0.150%	0.113%	  0.113% 
+					
+20	FlRE0l .20		0.150%	0.113%	0.113%
+ 21	
+
+22	FIRE0 1 .21	Nhà máy stia,Nhà máy sdn xuat chê phâm th saa	0.150%	0.113%	0.113%
+	
+FIREO1 .22	Nhà máy xi măng,Nhà máy sàn xuat xi măng, bê tông, viia dã dóng gói, Tháp phân phoi bê tông, xi mäng,Nhà máy sàn xuat sàn pham bê tông diroc u'a chuong,Nhà máy sàn xuât săn pham ket cau bê tông	
+0.150%	
+0.113%	
+0.113%
+23	FlRE0 1.24	Nhà máy, cø sö san xuât muòi các loai	0.200%	0.150%	0.150%
+24	FIRE0I.25	Nhà tâp thê, nhà chung cm	0.100%	0.075%	0.075%
+25	FIREO I.25.1	Nhà tap thê, nhà chung cu, nhà ó (không bán hdng) có hj thông chïia
+cháy tir dông (sprinkler)	
+0.050%	
+0.038%	0 038%
+26	FIREO 1 .25.2	Nhà tap thê, nhà chung cm, nhà ò (không bán hàng) không có he thông
+chiia cháy ttr dông (sprinkler)	
+0.100%	
+0.075%	0 075%
+
+
+
+STT	
+Mã ngành
+nghe	
+
+Ngành nghe	
+Tÿ le phí theo nghț dțnh 67	
+Tÿ lj phí toi thieu
+cúa MIC
+				  THVC 	  GDKD
+27	FIREO 1.26	Nhà thi dâu, trung tâm thê thao, Dau truõng thê thao,Truóng ban,
+Phòng chwi Bowling (có nhà hàng)		
+0.060%	
+0.045%	0.045%
+28	Fl RE0 1.27	Phòng khám y tê, cø sò chăm sóc răng, Co sò y te chăm sóc súc khoê
+cho nguói khuyet tât, tré mo côi	
+0.050%	
+0.038%	0.038%
+29	FIRE0I.28	Rap chieu phim, Nhà hát, nhà hát kich	0.100%	0.075%	0.075%
+30	F1RE0I.29	Tòa nhà vãn phòng cho thuê	0.050%	0.038%	0.038%
+31	FIRE0l.30	Ben diên, Tram biru chính vien thông		0.075%	0.056%	0.056%
+32	FIRE0l.3I	Tru só cø quan, văn phòng lãm vijc trong khu hành chính thirøng mąi	
+0.050%	
+0.038%	0.038%
+33	FIRE0l.32	Trung tâm nuôi trê mo côi, nguòi tàn tât	0.050%	0.038%	0.038%
+34	FIRE0l.33	Trtròng hoc, trung tâm dào tao	0.050%	0.038%	0.038%
+35	FIRE01.34	Viên nghiên cćru, trung tâm thí nghiêm (không có chat de cháy nô)	0.050%	0.038%	0.038%
+36	FlRE0l.35	Xtióng ü bia	0.150%	0.113%	0.113%
+37	FIRE0I.37	Nhà thi dâu, trung tâm thê thao, Oâu truóng thê thao,Trtròng ban,
+Phòng choi Bowling (không có nhà hàng)	
+0.060%	
+0.045%	0.045%
+38	FIRE01.38	Khách sąn, resorts, nhà khách khu vuc miên Trung (không tham gia
+bào hiêm giông bão, lñ lut)	
+0.100%	
+0.075%	0.075%o
+CAT 2					
+39	FlRE02.l	Cø só/nhà näáy sàn xuât thiêt bit dien, thiêt bi dięn gia dçng, thiet bi
+diên tù’ gia dung	
+0.150%	
+0.113%	0.113,
+to
+40	FIRE02.2	Cùa hàng (showroom) bán ô tô xe máy	0.150%	0.113%	0.113%
+41	FIRE02.3	Trung tâm tô chúc hôi cho,Trung tâm triên lãm	0.120%	0.090%	0.090%
+42	FlRE02.4	Kho phiJ tùng kim loąi cø khí ( Kho riêng biet chi bào hiêm rùi ro
+cháy, no)	
+0.100%	
+0.075%	0.075%
+43	FIRE02.5	Kho gach, gôm sú ( kho riêng biêt chi bào hiêm rùi ro cháy nô)	0.100%	0.075%	0.075%
+44	FIRE02.6	Nhà máy sàn xuat/lăp ráp ô tô, mô tô	0.150%	0.113%	0.113%
+45	FlRE02.7	Nhà ga, bên tàu, bên xe	0.100%	0.075%	0.075%
+46	FIRE02.8	Nhà hàng	0.150%	0.113%	0.113%
+47	FIRE02.9	Nhà máy chê biên thùc ăn khác	0•150%	0.113%	0•113%
+48	F1RE02.10	Nhà máy chê biên, gia công quăng khác	0.150%	0.1 I 3%	0.1 I 3%
+49	FIRE02.12	Nhà máy săn xuât máy bay và phu tùng máy bay	0.150%	0.113%	0.113%
+50	FIRE02.14	Nhà máy diroc phâm	0.150%	0.113%	0.113%
+51	FlRE02.15	Nhà máy duöng	0.150%	0.113%	0.113%
+52	F1RE02.16	Nhà máy in, xiròng in (không sàn xuât giây, che bien giây)	0.200%	0.150%	0.150%
+53	FIRE02.17	Nhà máy nhiêt diên chay băng khí, dâu	0.150%	0.113%	0.113%
+54	FIRE02.I 8	Nhà máy nhiêt diên chay băng than	0.150%	0.113%	0.113%
+55	FIRE02.19	Nhà máy sàn xuât câu trúc kim loai và câu kięn lăp san	0.150%	0.113%	0.113%
+56	rIRE02.20	Nhà máy sàn xuât dâu ăn	0.150%	0.113%	0.113%
+57	FIRE02.21	Nhà máy sàn xuât chè	0.150%	0.113%	0.113%
+
+58	
+FIRE02.22	Nhà máy săn xuât bu lông, dai ôc, dinh tán, ôc vít và gia công các kim
+loąi khác	
+0.150%	
+0.1 l 3%	
+0.113%
+59	FIRE02.23	Nhà máy sàn xuât phq tùng ô tô, xe dąp, xe máy và phç tùng kim 1
+khác	0.150%	0.113%	0.113%
+60	FIRE02.24	Nhà máy sàn xuât săt	0.150%	0.113%	0.113%
+61	FlRE02.25	Nhà máy san xuât thép (không có cán nóng)	0.150%	0.113%	0.113%
+62	F1RE02.26	Nhà máy sän xuât thirc phâm dô hôp	0.150%	0.113%	0.ł 13%
+63	FIRE02.27	Nhà máy sàn xuât vö dô hôp kim loai	0.150%	0.113%	0.113%
+64	FIRE02.28	Nhà máy loc dâu duói 10 näm	0.350%	0.263%	0.263%
+65	FIRE02.29	Sàn xuat dô gom cao cap nhu gąch lát, do sú, do dât nung, do gom	0.150%	0.113%	0.113%
+66	FIRE02.30	Sàn xuât dô gôm thông thiiòng	0.150%	0.113%	0.113%
+67	FIRE02.31	Sàn xuât và chê biên kính cùa	0.150%	0.113%	0.113%
+68	FIRE02.32	Sàn xuât và chê biên soi thùy tinh	0.150%	0.113%	0.113%
+69	F1RE02.33	Sán xuât và chê biên thùy tinh rông, chai lo, dung cu quang hoc	0.150%	0.113%	0.113%
+70	FIRE02.34	Tram biên áp tïï 110KV dên 500KV	0.200%	0.150%	0.150%
+71	FIRE02.35	Tram biên áp tù 500KV trò lên	0.200%	0.150%	0.150%
+72	FIRE02.36	Trung tâm thuong mai, siêu thi	0.080%	0.060%	0.060%
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-:
-
-is B
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-T@p
-,
-’.o i
-!Äh
-
- 
 
 
 STT	
@@ -228,8 +290,6 @@ l IS	PIRE03.35	Nhà máy phân dam	0.200%	0.150%	0.150%
 122	FIRE03.42	Nhà máy, xtròng xay bpt mì	0.150%	0.113%	0.113%
 
 
- 
-
 STT	
 Mã ngà nh
 nghe	
@@ -306,7 +366,6 @@ hiêm cho tài sàn trong ham)
 166	FIRE04.23	Kho hàng hoá tông høp trong nhà	0.200%	0.200%	0.200%
 167	FIRE04.24	Kho hàng nông săn (gao, ngô, cafe, tiêu, khoai, hat diêu.	)	0.200%	0.200%	0.200%
 
- 
 
 
 STT	
@@ -387,8 +446,6 @@ giây..)
 217	FIRE05.10	Sàn xuât các sán phâm dêt chua phân loai khác	0.250%	0.250%	0.250%
 218	FIRE05.I l	Sàn xuât lua, to tăm	0.250%	0.250%	0.250%
 
- 
-
 
 STT	
 Mã ngành nghe	
@@ -421,10 +478,5 @@ nhua dtrõng)
 CAT 6				
 233	FIRE06.01	Kho xãng dâu trong ngành Çquân dôi)	0.300%	0.300%	0.300%
 	Các dôi tuong khác			
-
-
-
-
-
 
 
