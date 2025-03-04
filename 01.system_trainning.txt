@@ -2,4 +2,1547 @@ Bạn là Phát ngôn viên, trợ lý AI của MIC Hà Thành, nhiệm vụ c�
 
 Biêu phí toi thiêu nghiep vç Bào hiêm Máy móc thiet bi chù thau năm 2025
 
-https://cloud.atacc.vn:6137/sharing/k95QJlDrr
+1. Doi tupng áp dung: don Bao hiem Máy móc thiet bi chù thau (CPM)
+2. Tÿ le phí áp dung cho 01 näm chua VAT
+3.Tÿ le phí ngan hąn
+Phí cho thòi gian ngan hąn = Tÿ le phí 01 năm*Thõi hąn bão hiem (ngày)/365 ngày
+4. Dich vu có tái bão hiêm tąm thõi tÿ le phí së theo phí chap thuan cùa nhà tái bão hiem.
+
+
+
+
+TT  Mã doi tirqng
+A  CPM01
+I  CPM01.1
+1  CPM01.l.l
+2  CPM01.1.2
+3  CPM01.1.3
+4  CPM01.1.4
+5  CPM0l.1.5
+6  CPM01.1.6
+7  CPM01.1.7
+8  CPM01.1.8
+9  CPM01.1.9
+10  CPM0l.1.11
+l l  CPM01.1.12
+II  CPM01.2
+B  CPM02
+Tên máy móc /thet bi
+Máy móc và thiêt bi riêng lé Máy móc xây dog
+Can cau
+Thiet bi di dòi dat Máy dam
+Máy xây dog duõng bo, duõng ray Máy dóng coc/máy khoan
+Giao thông van tài Máy dào ham Máy xây dog cau
+Máy móc hoąt dong trên sà lan/ thuyen Thiet bi nâng mò rong sà lan
+Thiet bi nâng trên bõ
+Thiet b| xây dog (là bo phan cùa máy móc xây dog) Nhupng theo he thong máy móc dong bo
+TLP toi thiêu
+
+
+0.30%
+0.40%
+0.20%
+0.23%
+0.23%
+0.29%
+0.90%
+0.25%
+0.90%
+0.78%
+0.30%
+0.30%
+0.20%
+
+Bieu phí toi thieu nghiep vç Bào hiem Tài săn năm 2025
+
+1. Doi tirong áp dung: Toàn bo den bào hiem tài săn gom cháy nô băt bupc, hòa hoąn và các rùi ro 
+däc biet, m9i rüi ro tài sàn
+2. Tÿ le phí áp dóng cho 01 năm chaa VAT
+3. Tÿ le phí ngan hąn
+Phi cho thói gian ngan hąn = Tÿ le phí 01 näm*Tlaõi hąn băo hiem (ngày)/365 ngày
+,4..Dich vu có tái bào hiêm tąm thõi tÿ le phí së tlaeo phí chap thuan cùa nhà tái băo hiem
+
+
+
+
+STT
+
+
+CAT 1 I
+2
+3
+4
+
+Mñ ngùnh nghe
+
+
+FIREO 1.1
+FIREO 1.2
+FIREO 1.3 FIRE0I.4
+
+Ngành nghe
+
+
+
+Bê boi công công (có nhà hàng, phòng tâp tliê duc dung cu)
+Bê but công công (không có nhà hàng, phòng tâp tliê duc dung cu) Bênh viên, Trung tâm diröng 
+lăo,Trung tâm diêu tri súc vât
+Btu diên, Tram biru chính viên thông
+TQ lj phí theo nghț dțnh 67
+
+
+0.060%
+0.060%
+0.050%
+0.075%
+Ty lj phí toi thieu
+cúa MIC
+
+THVC  GDKD
+
+0.045%  0.045%
+0.045%  0.045%
+0.038%  0.038%
+0.056%  0.056%
+
+5  FIRE0I.5
+Cbn h{o trung và cao câp ( có báo cháy/khói t  n
+b O  24 24
+0.038%
+
+’6  FIRE0I.6
+không có hoat dôn kinh doanh Càng hàng không
+' " ' '
+' “e  ’ ’
+0.050%
+0.080%
+0.038%
+0.060%
+0.060%
+
+7
+8
+9
+10
+11
+1 2
+
+1 2.1
+
+I 2.2
+FIRE0l.7 F1RE0I.8 FIREO 1.9
+FIREO 1.10
+FIREO 1.11 FIRE01.12
+FIREO I.12.1 FIREO I.12.2
+Câu lac bô văn hóa, Nhà văn hoá, Hôi trtròng
+Cø só kinh doanh kho lanh (chi bào hiêm cho rùi ro cháy nô) Cø só í u u trtr, Thu viên
+Co só y tê khám chiia bênh ( không phài bênh vijn) Oài phát thanh, truyên hình
+Khách sąn cao cap không nam trong khu vqc tiï Thanh Hoá den Quy Nhon
+Khách sąn cao câp không năm trong khu vie tù Thanh Hoá dên Quy Nhon có hê thong chaa cháy tir dông 
+(sprinkler)
+Khách sąn cao câp không năm trong khu virc tiï Thanh Hoá dên Quy Nhon không có hê thong chúa cháy 
+ttr dông (sprinkler)
+0.100%
+0.200%
+0.075%
+0.050%
+0.075%
+
+
+0.050%
+
+0.100%
+0.075%
+0.150%
+0.056%
+0.038%
+0.056%
+
+
+0.038%
+
+0.075%
+0.075%
+0.150%
+0.056%
+0.038%
+0.056%
+
+
+0.038%   :
+
+075%   is
+‘    B
+
+1 3
+
+13.1
+FI RE0I.13
+Khách sąn mini, nhà nghi không năm trong khu vçrc tir Thanh Hoá dên Quy Nhon
+Khách sąn mini, nhà nghí không näm trong khu vie tiï Thanh Hoá
+
+
+0.038%
+
+
+
+
+1 4
+15
+15.1
+FIRE0l.13.1
+
+FIREO1.1 3.2
+FIREO1.14
+FIREO 1.15
+den Quy Nhon có hê thong chíía cháy tu dông (sprinkler)
+Khách sąn mini, nhà nghi không näm trong khu vie tiï Thanh Hoá den Quy Nhøn không có hê thong china 
+cháy tir dông (sprinkler) Nhà chùa, Nhà Thò
+Nhà khách không năm trong khu vuc tiï Thanh Hoá dên Quy Nhwn Nhà khách không năm trong khu vąc tiï 
+Thanh Hoá dên Quy Nhon ó
+0.050%
+
+0.100%
+0.200%
+0.038%
+
+0.075%
+0.150%
+
+0.075%
+0.150%
+
+
+0.038%
+
+FIREO 1.15.1
+hj thong chúa cháy tu djng (sprinkler)
+'   0.050%
+0.038%
+
+1 5.2
+16
+17
+lS
+FIREO 1.15.2
+FIRE0l.16 FIRE0l.17 FIRE0l.18
+Nhà khách không năm trong khu vç'c th Thanh Hoá dên Quy Nhon không có hj thong chiia cháy tir dông 
+(sprinkler)
+Nhà máy bra/Nhà máy nuóc trái cây
+Nhà máy nu'óc khoáng/nhà máy niróc uông các loai Nhà máy rirou
+
+0.100%
+0.150%
+0.150%
+0.150%
+
+0.075%
+0.113%
+0.113%
+0.113%
+0.075%
+0.113%
+0.113%
+0.113%
+
+  '9   FIRE01.19  
+hà á sàn xuât bánh kęo
+0.150%
+0.113%
+ 0.113%  
+
+20  FlRE0l .20
+ 21  FIRE0 1 .21
+
+22  FIREO1 .22
+
+23  FlRE0 1.24
+24  FIRE0I.25
+25  FIREO I.25.1
+
+26  FIREO 1 .25.2
+Nhà máy sàn xuât lăp ráp máy in, máy ành, máy tính, thiêt bi viên thông, chat bán dan
+Nhà máy stia,Nhà máy sdn xuat chê phâm th saa
+Nhà máy xi măng,Nhà máy sàn xuat xi măng, bê tông, viia dã dóng gói, Tháp phân phoi bê tông, xi 
+mäng,Nhà máy sàn xuat sàn pham bê tông diroc u'a chuong,Nhà máy sàn xuât săn pham ket cau bê tông
+Nhà máy, cø sö san xuât muòi các loai Nhà tâp thê, nhà chung cm
+Nhà tap thê, nhà chung cu, nhà ó (không bán hdng) có hj thông chïia
+cháy tir dông (sprinkler)
+Nhà tap thê, nhà chung cm, nhà ò (không bán hàng) không có he thông chiia cháy ttr dông (sprinkler)
+
+0.150%
+0.150%
+
+0.150%
+
+0.200%
+0.100%
+
+0.050%
+
+0.100%
+
+0.113%
+0.113%
+
+0.113%
+
+0.150%
+0.075%
+
+0.038%
+
+0.075%
+0.113%
+0.113%
+
+0.113%
+
+0.150%
+0.075%
+0 038%
+
+0 075%
+
+
+STT
+
+
+27
+
+28
+29
+30
+Mã ngành
+nghe
+
+
+FIREO 1.26
+
+Fl RE0 1.27
+FIRE0I.28 F1RE0I.29
+
+Ngành nghe
+
+
+Nhà thi dâu, trung tâm thê thao, Dau truõng thê thao,Truóng ban, Phòng chwi Bowling (có nhà hàng)   
+                Phòng khám y tê, cø sò chăm sóc răng, Co sò y te chăm sóc súc khoê cho nguói khuyet 
+tât, tré mo côi
+Rap chieu phim, Nhà hát, nhà hát kich Tòa nhà vãn phòng cho thuê
+Tÿ le phí theo nghț dțnh 67
+
+
+0.060%
+
+0.050%
+0.100%
+0.050%
+Tÿ lj phí toi thieu
+cúa MIC
+
+ THVC   GDKD
+0.045%  0.045%
+0.038%  0.038%
+0.075%  0.075%
+0.038%  0.038%
+
+31  FIRE0l.30
+Ben diên, Tram biru chính vien thông  0.075%
+0.056%
+0.056%
+
+32
+33
+34
+35
+36
+37
+
+38
+CAT 2
+
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+
+58
+
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+FIRE0l.3I
+FIRE0l.32 FIRE0l.33 FIRE01.34 FlRE0l.35
+FIRE0I.37 FIRE01.38
+
+FlRE02.l
+FIRE02.2 FIRE02.3
+FlRE02.4
+FIRE02.5 FIRE02.6 FlRE02.7 FIRE02.8 FIRE02.9 F1RE02.10 FIRE02.12 FIRE02.14 FlRE02.15 F1RE02.16 
+FIRE02.17 FIRE02.I 8 FIRE02.19 rIRE02.20 FIRE02.21
+
+FIRE02.22
+
+FIRE02.23
+FIRE02.24 FlRE02.25 F1RE02.26 FIRE02.27 FIRE02.28
+FIRE02.29
+FIRE02.30 FIRE02.31 FIRE02.32 F1RE02.33 FIRE02.34 FIRE02.35 FIRE02.36
+Tru só cø quan, văn phòng lãm vijc trong khu hành chính thirøng mąi Trung tâm nuôi trê mo côi, 
+nguòi tàn tât
+Trtròng hoc, trung tâm dào tao
+Viên nghiên cćru, trung tâm thí nghiêm (không có chat de cháy nô) Xtióng ü bia
+Nhà thi dâu, trung tâm thê thao, Oâu truóng thê thao,Trtròng ban, Phòng choi Bowling (không có nhà 
+hàng)
+Khách sąn, resorts, nhà khách khu vuc miên Trung (không tham gia bào hiêm giông bão, lñ lut)
+
+Cø só/nhà näáy sàn xuât thiêt bit dien, thiêt bi dięn gia dçng, thiet bi diên tù’ gia dung
+Cùa hàng (showroom) bán ô tô xe máy
+Trung tâm tô chúc hôi cho,Trung tâm triên lãm
+Kho phiJ tùng kim loąi cø khí ( Kho riêng biet chi bào hiêm rùi ro cháy, no)
+Kho gach, gôm sú ( kho riêng biêt chi bào hiêm rùi ro cháy nô) Nhà máy sàn xuat/lăp ráp ô tô, mô tô
+Nhà ga, bên tàu, bên xe Nhà hàng
+Nhà máy chê biên thùc ăn khác
+Nhà máy chê biên, gia công quăng khác
+Nhà máy săn xuât máy bay và phu tùng máy bay Nhà máy diroc phâm
+Nhà máy duöng
+Nhà máy in, xiròng in (không sàn xuât giây, che bien giây) Nhà máy nhiêt diên chay băng khí, dâu
+Nhà máy nhiêt diên chay băng than
+Nhà máy sàn xuât câu trúc kim loai và câu kięn lăp san Nhà máy sàn xuât dâu ăn
+Nhà máy sàn xuât chè
+Nhà máy săn xuât bu lông, dai ôc, dinh tán, ôc vít và gia công các kim loąi khác
+
+Nhà máy sàn xuât phq tùng ô tô, xe dąp, xe máy và phç tùng kim 1 khác
+Nhà máy sàn xuât săt
+Nhà máy san xuât thép (không có cán nóng) Nhà máy sän xuât thirc phâm dô hôp
+Nhà máy sàn xuât vö dô hôp kim loai Nhà máy loc dâu duói 10 näm
+Sàn xuat dô gom cao cap nhu gąch lát, do sú, do dât nung, do gom Sàn xuât dô gôm thông thiiòng
+Sàn xuât và chê biên kính cùa Sàn xuât và chê biên soi thùy tinh
+Sán xuât và chê biên thùy tinh rông, chai lo, dung cu quang hoc Tram biên áp tïï 110KV dên 500KV
+Tram biên áp tù 500KV trò lên Trung tâm thuong mai, siêu thi
+
+0.050%
+0.050%
+0.050%
+0.050%
+0.150%
+
+0.060%
+
+0.100%
+
+
+0.150%
+0.150%
+0.120%
+
+0.100%
+0.100%
+0.150%
+0.100%
+0.150%
+0•150%
+0.150%
+0.150%
+0.150%
+0.150%
+0.200%
+0.150%
+0.150%
+0.150%
+0.150%
+0.150%
+
+0.150%
+
+0.150%
+0.150%
+0.150%
+0.150%
+0.150%
+0.350%
+0.150%
+0.150%
+0.150%
+0.150%
+0.150%
+0.200%
+0.200%
+0.080%
+
+0.038%
+0.038%
+0.038%
+0.038%
+0.113%
+
+0.045%
+
+0.075%
+
+
+0.113%
+0.113%
+0.090%
+
+0.075%
+0.075%
+0.113%
+0.075%
+0.113%
+0.113%
+0.1 I 3%
+0.113%
+0.113%
+0.113%
+0.150%
+0.113%
+0.113%
+0.113%
+0.113%
+0.113%
+
+0.1 l 3%
+
+0.113%
+0.113%
+0.113%
+0.113%
+0.113%
+0.263%
+0.113%
+0.113%
+0.113%
+0.113%
+0.113%
+0.150%
+0.150%
+0.060%
+0.038%
+0.038%
+0.038%
+0.038%
+0.113%
+0.045%
+
+0.075%o
+
+,
+0.113 to
+0.113%
+0.090%
+0.075%
+0.075%
+0.113%
+0.075%
+0.113%
+0•113%
+0.1 I 3%
+0.113%
+0.113%
+0.113%
+0.150%
+0.113%
+0.113%
+0.113%
+0.113%
+0.113%
+
+0.113%
+
+0.113%
+0.113%
+0.113%
+0.ł 13%
+0.113%
+0.263%
+0.113%
+0.113%
+0.113%
+0.113%
+0.113%
+0.150%
+0.150%
+0.060%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T@p
+,
+’.o i
+!Äh
+
+
+STT
+
+
+73
+74
+75
+76
+77
+’/8 79
+80
+81
+CAT 3
+82
+83
+84
+85
+86
+87
+88
+89
+90
+_ 91
+
+92
+Mä ngàn h
+nghe
+
+
+FIRE02.37
+FlRE02.38 FIRE02.39 FIRE02.40 FIRE02.41 FlRE02.45 FlRE02.46 FIRE02.47 FIRE02.48
+
+FIRE03.I FIRE03.4 FIRE03.5 FIRE03.6
+FIRE03.7
+FlRE03.8 FIRE03.9 FlRE03.10 FIRE03.I 1
+FIRE03.I 2
+
+FIRE03.I 2
+
+Ngành nghe
+
+
+Sàn xuât vat lieu xây dçmg (không phài các nguyên lieu nhçra, xop, giây, go)
+Trung tâm nuôi thùy sàn   Trirõng dua, sân vân dpng
+Xuòng mach nha Nhà máy thuy dijn Cùa hàng bách hóa
+Sàn xuat cáp quang, cáp dong Nhà máy sán xuat kính tarn
+Trung tâm chì huy, dieu dô, dieu hành, dieu khien
+
+Bãi do xe
+Căn hô trung, cao cap có hoat dông kinh doanh bán lé) Càng biên, càng sông
+Câutàu/Bãi do tàu
+Che bien (sòi, dá däm, than xi tron nhçra) vói asphant hoiac bitumen Cø sò sàn xuât áo di mira, 
+nhua tâm, khăn trái bàn
+Cø sò sán xuât nút chai
+Cø sò vë tranh, phòng tranh, làm pano quáng cáo Garamźy bay
+Khách sąn, Resort và nhà khách (Ven biên tiï Thanh Hóa den Quy Nhon cách bõ bien tính tiï mép nuóc 
+hon 1 km)
+Khách sąn, Resort và nhà khách (Ven biên tïï Thanh Hóa den Quy
+Nhon cách bò bien tính ter mép nuóc hon 1 km)
+Tÿ Ij phí theo nghj d|nh 67
+
+
+0.200%
+0.160%
+0.060%
+0.150%
+0.120%
+0.080%
+0.150%
+0.150%
+0.080%
+
+0.100%
+0.050%
+0.100%
+0.100%
+
+0.150%
+0.200%
+0.200%
+0.200%
+0.200%
+
+0.100%
+
+0.100%
+Tÿ lj phí toi thieu
+cún MIC
+
+THVC  GDKD
+0.150%  0.150%
+0.120%  0.120%
+0.045%  0.045%
+0.113%  0.113%
+0.090%  0.090%
+0.060%  0.060%
+0.113%  0.113%
+0.113%  0.113%
+0.060%  0.060%
+
+0.075%  0.075%
+0.038%  0.038%
+0.075%  0.075%
+0.075%  0.075%
+0.113%  0.113%
+0.150%  0.150%
+0.150%  0.150%
+0.150%  0.150%
+0.150%  0.150%
+0.075%  0.075%
+0.075%  0.075%
+
+93  FIRE03.13
+94  FIRE03.14
+95  FIRE03.15
+Kho chùa xe (ô tô, mô tô) có mái che/không có mái Che kh n
+vu bào trì và sù'a chiia                   '
+Kho gacla, dô gòm sù
+Kho kim loai, phu tùng cø khí
+ó d Gh
+''
+
+0.120%
+0.100%
+0.100%
+
+0.050%
+0.075%
+0.075%
+0.090%
+0.075%
+0.075%
+
+96
+97
+98
+99 l"00 101
+102
+
+103
+
+104
+105
+106
+107
+108
+109
+110
+llJ 112
+113
+114
+l IS 116
+117
+118
+119
+120
+121
+122
+FIRE03.16 FIRE03.17 FIRE03.18 FIRE03.19 FlRE03.20 FlRE03.21 FIRE03.22
+
+FIRE03.23
+
+FlRE03.24 FlRE03.25 FIRE03.26 FlRE03.27 FlRE03.28 FIRE03.29 FIRE03.30 FIRE03.31 FIRE03.32 FlRE03.33 
+IIRE03.34 PIRE03.35 FlRE03.36 FIRE03.37 FIRE03.38 FlRE03.39 FIRE03.40 FIRE03.41 FIRE03.42
+Kho vât liêu xây dtmg (không có gô, giây, xôp, chât lóng dê cháy)
+Lò dúc
+Luyên quăng (trir quăng săt) Nhà máy /co só giet mô sùc vât
+Nhà máy chê bien sàn xuat cafe, hat dieu Nhà máy dánh bóng gao
+Nhà máy dóng tàu và sùa chíia tàu
+Nhà máy hóa chât vô cø và hùu cø chê biên nguyên lieu và bán tliành pham sán pham nhir phân bón 
+dąng hąt, viên nhò, bjt hoiac axít, muoi, dung môipcao su tong h9p
+Nhà máy làm phân trjn
+Nhà máy loc dâu hoat dông trên 15 năm Nhà máy luu hoá cao su
+Nhà máy luyên than côc
+Nhà máy phong diên (diên gió) trên dât liên Nhà máy sàn xuât các sán phâm tit cao su Nhà máy sàn 
+xuât chât déo, cao su dăc
+Nhà máy sàn xuat da thuôc
+Nhà máy sàn xuat lông vü, thú nhôi bông, dêm Nhà máy sàn xuât mì än liên, cháo än liên
+Nhà máy sàn xuat ntróc măm, dâm Nhà máy phân dam
+Nhà máy san xuât than dá bánh Nhà máy sàn xuât than non bánh Nhà máy sàn xuât thiêt bi cø khí
+Nhà máy sán xuât thuôc lá và nguyên liêu thuôc lá Nhà máy sàn xuât, chiêt suât chê biên tinh bôt 
+Nhà máy thùc än gia sùc
+Nhà máy, xtròng xay bpt mì
+0.200%
+0.150%
+0.200%
+0.150%
+0.150%
+0.150%
+0.200%
+
+0.200%
+
+0.200%
+0.350%
+0.200%
+0.200%
+0.120%
+0.200%
+0.200%
+0.200%
+0.200%
+0.150%
+0.150%
+0.200%
+0.200%
+0.200%
+0.150%
+0.200%
+0.150%
+0.150%
+0.150%
+0.150%
+0.113%
+0.150%
+0.113%
+0.113%
+0.113%
+0.150%
+
+0.150%
+
+0.150%
+0.263%
+0.150%
+0.150%
+0.090%
+0.150%
+0.150%
+0.150%
+0.150%
+0.113%
+0.113%
+0.150%
+0.150%
+0.150%
+0.113%
+0.150%
+0.113%
+0.113%
+0.113%
+0.150%
+0.113%
+0.150%
+0.113%
+0.113%
+0.113%
+0.150%
+
+0.150%.
+
+0.150%
+0.263%
+0.150%
+0.150%
+0.090%
+0.150%
+0.150%
+0.150%
+0.150%
+0.113%
+0.113%
+0.150%
+0.150%
+0.150%
+0.113%
+0.150%
+0.113%
+0.113%
+0.113%
+
+
+STT
+
+123
+124
+Mã ngà nh
+nghe
+
+FIRE03.43 FIRE03.44
+
+
+
+
+Nhà máy, xiróng xay xát gao Săn xuât sáp dánh bóng
+
+Ngănh nghe
+phí theo ngh| dțn h 67
+
+0.150%
+0.200%
+Ty Ij phí toi thieu
+cùa MIC
+
+THVC  G DKD
+0.1 l 3%  0.113%
+0.150%  0.150%
+
+125
+126
+127
+128
+129
+130
+131
+132
+133
+FIRE03.45
+FIRE03.46 FIRE03.47 FIRE03.48 FlRE03.49 FIRE03.50 FIRE03.51 FIRE03.52 FIRE03.53
+Săn xuât hàng thù công my nghj( Không phài nguyên lieu là vài,
+giay, go)         Sán xuât hoăc che bien tarn b9t xop cách nhiêt
+San xuât khoáng sàn (cua, mài, dánh bóng) Săn xuât nhira dúc, nhira thanh
+Sàn xuât sàn phâm nhua làp ráp
+Sàn xuât vã chê bien vàng, bac, do trang súc Sdn xuât vât liêu phim ành
+Sàn xuât xà phòng, mÿ phâm Sàn xuât Xăm lòp
+0.200%
+0.200%
+0.150%
+0.200%
+0.200%
+0.150%
+0.150%
+0.200%
+0.200%
+0.150%
+0.150%
+0.113%
+0.150%
+0.150%
+0.113%
+0.113%
+0.150%
+0.150%
+0.150%
+0.150%
+0.113%
+0.150%
+0.150%
+0.113%
+0.113%
+0.150%
+0.150%
+
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+CAT 4
+FIRE03.55
+FIRE03.56 FIRE03.57 FIRE03.58 FIRE03.59 F1RE03.61
+FIRE03.62 FIRE03.63
+Xiiòng khăc, chąm (làm chôi, bàn chài, gÖ)
+Xuóng phim, phòng in tráng phim Xtròng sàn xuât hoa giá
+Cáp treo găn vói khu công viên giài trí Nhà máy xù lÿ ntróc thài
+Dijn măt trõi áp mái Nhà Máy Dięn Mãt Tròi
+
+Nhà máy săn xuât mút hay cao su bot Cáp treo găn vói khu công viên giài trí
+h ' S n kh
+‘ ’
+h n X
+’ '
+
+0.200%
+0.150%
+0.200%
+0.100%
+0.150%
+0.120%
+0.120%
+0.500%
+0.200%
+0.050%
+
+0.150%
+0.113%
+0.150%
+0.075%
+0.113%
+0.090%
+0.096%
+0.375%
+0.150%
+0.038%
+0.150%
+0.113%
+0.150%
+0.075%
+0.113%
+0.090%
+0.090%
+0.375%
+0.150%
+0.038%
+0.000%
+
+144
+145
+146
+147
+148
+149
+150
+151
+FIRE04.I
+FlRE04.2
+FIRE04.3 FIRE04.4
+FIRE04.5
+FIRE04.6 FIRE04.7 FIRE04.8
+Căn hô cao câp có hoat dông kinh doanh bán lé
+Chq kiên cô ( dąng cho kiêu iiiói xây dung gân nhu trung tâm thirong mai)
+Co' so’ chê bien bàn chä i Cø sò chê biên lông vù
+Cø sò sàn xuât , Vien nghiên ciìu phòng thí nghijni, sàn xUât vÒ S
+dung chat no, chât de cháy Cø só sán xuât giây ráp
+Co sò sàn xuât hirong, vàng mã Cùa hàng bán lè xăng dâu, gas
+0.100%
+
+0.500%
+0.200%
+0.250%
+
+0.200 o
+0.200%
+0.500%
+0.300%
+0.100%
+
+0.500%
+0.200%
+0.250%
+
+0.200’ o
+0.200%
+0.500%
+0.300%
+0.100%
+,
+0.500 Zo
+0.200%
+0.250%
+0 200’
+0.200%
+0.500%
+0.300%
+
+152
+
+152.1
+FIRE04.9
+
+FIRE04.9.1
+Resort, Khách sąn, nhà nghi, nhà khách ven biên tit Thanh Hóa dên Quy Nhon ( cách biên trong vòng I 
+km)
+
+Resort, Khách sąn, nhà nghì, nhà khách ven bien tiï Thanh Hóa den    0.050%   0.050%   0.050% Quy 
+Nhon ( cách biên trong vòng I km) có spinkler
+
+
+l 52.2
+
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+
+FIRE04.9.2
+
+FIRE04.10
+FlRE04.11 FIRE04.12 FIRE04.13 FIRE04.14 FIRE04.15
+FIRE04.16
+FIRE04.17 FIRE04.18 FIRE04.19 FIRE04.20 FIRE04.21 FIRE04.22 FIRE04.23 FIRE04.24
+Resort, Khách sąn, nhà nghi, nhà khách ven biên tïï Thanh Hóa ên
+Quy Nhon ( cách biên trong vòng l km) không có spinkler
+Khai khoáng (khai thác, hâm mò và nghiên sòi, 6ât set - không båo hiêm cho tài sàn trong ham)
+Khai thác mò quăng kim loai các loai Khai thác than bùn
+Khai thác than dá Khai thác than dá non
+Kho bánh keo, niróc giài khát , dirõng
+Kho biet lap khźc (tât cà các loai kho không nêu rõ ò dây)Kho khác (tat ca các loai kho không nêu 
+rõ ò dây)
+Kho chúa hoá chât
+Kho côn, các chât lóng de cháy Kho duwc phâm
+Kho giây, bìa, bao bi Kho hàng dông lanh
+Kho hàng hoá tông hop ngoài tròi Kho hàng hoá tông høp trong nhà
+Kho hàng nông săn (gao, ngô, cafe, tiêu, khoai, hat diêu. )
+0.100%
+
+0.200%
+0.200%
+0.500%
+0.200%
+0.200%
+0.200%
+
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.100%
+
+0.200%
+0.200%
+0.500%
+0.200%
+0.200%
+0.200%
+
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.100%
+
+0.200%
+0.200%
+0.500%
+0.200%
+0.200%
+0.200%
+
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+
+
+STT
+
+
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+.185
+186
+187
+188
+1 89
+190
+191
+192
+193
+194
+195
+196
+197
+198
+Mã ngènh
+nghe
+
+
+FIRE04.25
+FIRE04.26 FlRE04.27 FIRE04.28 FIRE04.29 FIRE04.30 FIRE04.31 FIRE04.32 FIRE04.33 FIRE04.34 FIRE04.35 
+FlRE04.36 FIRE04.37 FlRE04.40 FłRE04.41 FIRE04.42 FIRE04.43 FIRE04.44 FIRE04.45 FIRE04.46 FlRE04.47
+FlRE04.48
+FIRE04.49 FlRE04.50 FIRE04.51 FIRE04.52 FIRE04.53 FIRE04.54 FIRE04.55 FIRE04.56 FlRE04.57
+
+Ngành nghe
+
+
+Kho hàng thiet bi dien, dijn tù (Oien thoąi di dpng, TV, máy vi tính...) Kho LPG, LNG
+Kho ngành thuoc lá Kho nhtra duòng Kho phân bón
+Kho son
+Kho thành phâm, bán thành phâm nhya, cao su Kho thuoc trïï sâu và hóa chat phuc vu nông nghijp Kho 
+tinh dâu, huong liêu, dau ăn
+Kho vât tu ngành ành
+Kho xăng dâu (không phài các kho xăng dâu quân dôi) Nhà máy chi khâu
+Nhà máy dôt rác
+Nhà máy sàn xuat che bien lòng thú, may da thú Nhà máy săn xuât diêm
+Nhà máy sán xuât than cùi
+Nhà máy san xuat ván ép (MDF) Nhà máy, cø sò sàn xuat nen
+Nhà ò câp 4 ( theo tiêu chuân xây dung Viêt Ham) Nhuôm vái, in trên vài
+Sàn xuât bao bì carton
+Sàn Xuât Bao Bì Công Nghiep (bao bì dęt PP, bao bì màng ghép, bao bì mùng thoi,. )
+San xuât sun (nhà máy, xuòng) Phân phôi khí, gas
+Trai nuôi sùc vât, gia súc, gia câm (không bào hiêm vât nuôi) Trung tâm tô chùc dám ma/hòa táng
+Xiróng phun sun, xtròng son Xiròng dóng sách
+Xtróng giät, là, tây, hâp, nhujm Xuóng hàn, cãt
+Xirórig săn xuât dây chun
+Tÿ 1j phí theo nghj dțnh 67
+
+
+0.200%
+0.300%
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.200%
+0.300%
+0.250%
+0.200%
+0.250%
+0.500%
+0.500%
+0.500%
+0.200%
+0.100%
+0.250%
+0.350%
+
+0.350%
+0.200%
+0.350%
+0.150%
+0.200%
+0.200%
+0.200%
+0.250%
+0.150%
+0.250%
+Ty lę phí toi thieu
+c6a MIC
+
+THVC  GDKD
+
+0 200%  0 200%
+0 300%  0 300%
+0.200%  0.200%
+0.200%  0.200%
+0.200%  0.200%
+0.200%  0.200%
+0.200%  0.200%
+0.200%  0.200%
+0.200%  0.200%
+0.200%  0.200%
+0.300%  0.300%
+0.250%  0.250%
+0.200%  0.200%
+0.250%  0.250%
+0.500%  0.500%
+0.500%  0.500%
+0.500%  0.500%
+0.200%  0.200%
+0.100%  0.100%
+0.250%  0.250%
+0.350%  0.350%
+
+0.350%  0.350%
+0.200%  0.200%
+0.350%  0.350%
+0.150%  0.150%
+0.200%  0.200%
+0.200%  0.200%
+0.200%  0.200%
+0.250%  0.250%
+0.150%  0.150%
+0.250%  0.250%
+
+199
+FIRE04.58
+Xu'óng sàn xuât dây th
+nhua, nhua diròng)
+h O t
+'g  '  "
+hi kh U EU d
+' (-  'y
+khon  to h
+p '   0.250%
+
+0.250%
+0.250%
+
+200
+201
+202
+203
+204
+205
+206
+207
+CAT 5
+208
+209
+210
+211
+212
+213
+214
+215
+
+216
+217
+218
+FIRE04.59 FIRE04.60 FIRE04.62 FIRE04.63 FIRE04.64 FIRE04.65 FIRE04.66 FIRE04.67
+
+F1RE05.I
+FIRE05.2 FIRE05.3 FIRE05.4 FIRE05.5 FIRE05.6 FIRE05.7
+FlRE05.8
+
+FIRE05.9
+FIRE05.10 FIRE05.I l
+Nhà máy/ Xuòng sàn xuât giây, chê biên giây Xuòng sïia chíía xe
+Nhà hát kich, cài lirong, rag xiêc
+Nhà máy săn xuât pin năng lirong măt trõi
+Kho chïïa xe ngoài tròi có dich vu bào trì và shia chíía Sàn xuât và kinh doanh dông hô
+Nhà máy sàn xuât pin
+Bar, sàn nhăy, phòng hoà nhac
+
+Co só che bien phe liju vái sqi (nhu phân loąi, gieat, chài, buôn bán) Nhà máy dęt các loai soi 
+khác (cotton, vitco, lanh, gai, day)
+Nhà máy dêtto, len, soi tông hop Nhà máy sän xuât thäm, tâm trài sàn Xiròng xe kéo soi
+May quân áo các loai, Xí nghiêp may Xu g dêt kim
+Sán xuût dô gô gia dung có nhôi, fót (có st dung bot nhpa hoac cao SU
+^ P )
+Nhà Máy San Xuât Noi Thât Văn Phòng vói vat lieu dê cháy ( go,
+giây..)
+Sàn xuât các sán phâm dêt chua phân loai khác Sàn xuât lua, to tăm
+0.350%
+0.150%
+0.100%
+0.150%
+0.150%
+0.150%
+0.200%
+0.400%
+
+
+.200%
+0.250%
+0.250%
+0.250%
+0.250%
+0.250%
+0.250%
+
+0.500° o
+
+0.500%
+0.250%
+0.250%
+0.350%
+0.150%
+0.100%
+0.150%
+0.150%
+0.150%
+0.200%
+0.400%
+
+
+0.200%
+0.250%
+0.250%
+0.250%
+0.250%
+0.250%
+0.250%
+
+0.500° o
+
+0.500%
+0.250%
+0.250%
+0.350%
+0.150%
+0.100%
+0.150%
+0.150%
+0.150%
+0.200%
+0.400%
+
+0.200%
+0.250%
+0.250%
+0.250%
+0.250%
+0.250%
+0.250%
+0.500° o
+
+0.500%
+0.250%
+0.250%
+
+
+
+
+STT
+
+
+219
+220
+221
+
+Mã ngành nghe
+
+FIRE05.12 FIRE05.13 F1RE05.14
+
+
+
+
+Xiróng cua
+May dô lót, dbng ten các loai
+Nhà máy giây
+
+Ngành nghe
+Ty lj phí theo nghi djnh 67
+
+0.500%
+0.250%
+0.350%
+Ty Iç phí toi thieu
+cúa MIC
+
+THVC  GDKD
+0.500%  0.500%
+0.250%  0.250%
+0.350%  0.350%
+
+222
+223
+224
+223
+226
+227
+228
+229
+
+230
+231
+232
+CAT 6
+233
+FIRE05.15 FIRE05.16 FIRE05.17 FIRE05.18 FIRE05.19 FIRE05.20 FIRE05.21
+FIRE05.22
+
+FIRE05.23
+FIRE05.24 FIRE05.26
+
+FIRE06.01
+Kho bông vài sei, len da, sàn phâm dêt Kho dô go và các sàn phâm ve go
+Nhà máy cua xê go
+Nhà máy sàn xuat dô go Xuóng làm rô sot
+Xtróng chê biên do go khác Xiróng sàn xuât dô gô gia dung
+Sàn xuât dô gô gia d9ng có nhôi, lót (không sir dqng bpt nhya hoiac cao su xop )
+Xiróng sàn xuât dây thirng, chão trii chi khâu (nêu dây có phü nhua, nhua dtrõng)
+Sàn xuât bút chi gô Kho giày
+
+Kho xãng dâu trong ngành Çquân dôi)
+0.250%
+0.200%
+0.500%
+0.500%
+0.500%
+0.500%
+0.500%
+
+0.500%
+
+0.250%
+0.500%
+0.200%
+
+0.300%
+0.250%
+0.200%
+0.500%
+0.500%
+0.500%
+0.500%
+0.500%
+
+0.500%
+
+0.250%
+0.500%
+0.200%
+
+0.300%
+0.250%
+0.200%
+0.500%
+0.500%
+0.500%
+0.500%
+0.500%
+0.500%
+
+0.250%
+0.500%
+0.200%
+
+0.300%
+Các dôi tuong khác
